@@ -1,0 +1,333 @@
+clear;
+close all;
+clc;
+
+addpath(genpath('../fossilPollen/code/ompbox10'));
+addpath(genpath('../fossilPollen/code/spams-matlab'));
+
+% K = 300;  % select K desired receptive fields
+% lambdaL = 0.1;
+% lambdaD = 0.1; % discriminative term (2) -- make the selected points more "class-pure"
+% lambdaE = 200; % equal-size term (3) -- a very large lambda1 means that the points are being selected from class to class iteratively
+% lambdaB = 2;
+
+
+K = 600;  % select K desired receptive fields
+smallK = 300; % extract first smallK atoms as the dictionary rather than the whole
+lambdaL = 0.01;
+lambdaD = 0.01; % discriminative term (2) -- make the selected points more "class-pure"
+lambdaE = 20; % equal-size term (3) -- a very large lambda1 means that the points are being selected from class to class iteratively
+lambdaB = 2;
+
+numTrain = 65; % the number of training data in each class
+curLayer = 24; %[22, 23, 24, 25]
+
+locationScaleFactor = 0.0012;
+
+T = 45; % nonzero elements default 40
+lambdaLoc = 0; % weight of location-aware penalty default 0.09
+lambda1 = 0.07; % weight for sparsity
+
+%{
+----> lambda1
+80.146% (0.095) 80.5839(0.09) 81.3139%(0.085) 81.6058%(0.08)
+81.3139%(0.07) 82.0438%(0.06) 82.9197%(0.055) 83.0657%(0.051)
+83.2117%(0.05) 83.0657%(0.049) 82.4818%(0.045) 81.8978%(0.04) 80.146%(0.03) 
+
+---- lambda1=0.05 ----> locationScaleFactor
+78.2482%(0.0005) 82.1898%(0.0008) 83.2117%(0.001) 82.4818%(0.0011)
+82.9197%(0.0012) 79.1241%(0.002) 76.9343%(0.003)  
+%}
+
+%% load dataset
+databaseDIR = './database_binaryMask_CNNfeature_globalContrastNorm';
+databaseDestinationDir = './database_binaryMask_CNNfeature_globalContrastNorm_WholeImg';
+shapeType = strfind(databaseDIR, '_');
+shapeType = databaseDIR(shapeType(1)+1:shapeType(2)-1);
+
+fprintf('load dataset...\n');
+load(['trval_layer' num2str(curLayer) '_' shapeType '.mat']);
+pollenName = {'critchfieldii', 'glauca', 'mariana'};
+
+dictName = ['exemplarDict_K' num2str(K) 'L' num2str(lambdaL) '_D' num2str(lambdaD) '_E' num2str(lambdaE) '_B' num2str(lambdaB) '_globalContrastNorm.mat' ];
+load(dictName);
+
+% smaller dictionary size?
+exemplarIndex = exemplarIndex(1:smallK);
+
+dict = trainDict(:,exemplarIndex);
+dictLoc = trainDictLoc(:,exemplarIndex)*locationScaleFactor;
+dictLabel = DictClassLabel(exemplarIndex);
+
+WpreComputed = genDistMap(dictLoc, [1200 1200], [150 150], locationScaleFactor);
+
+%% location-aware sparse coding on training set
+numTrainData = length(unique(DictImageLabel));
+
+trainClassLabel = zeros(1, numTrainData);
+labelpredTrain = zeros(1, numTrainData);
+errorListTrain = zeros(numel(pollenName), numTrainData);
+scFeatTrain = cell(1, numTrainData);
+locFeatTrain = cell(1, numTrainData);
+scFeatTrainLoc = cell(1, numTrainData);
+scFeatTrainValidIndex = cell(1, numTrainData);
+
+dictGram = (dict'*dict);
+dictMultiplier = (dict'*dict)\dict';
+dictInverse = pinv(dict);
+
+count = 0;
+for categID = 1:length(pollenName)    
+    fprintf('category-%s ---\n', pollenName{categID} );
+    
+    tmpMat = load( [pollenName{categID}, '_layer_' num2str(curLayer) '_shapeType_' shapeType '_globalContrastNorm.mat'] );
+    for i_img = 1:numTrain
+        count = count + 1;
+        fprintf('\t image-%d/%d ---\n', count, numTrainData );
+        trainClassLabel(count) = categID;
+        
+        filename = tmpMat.imList(i_img).name;
+        curImgMat = load( fullfile(databaseDestinationDir, ['layer_' num2str(curLayer) '_' pollenName{categID} ' fossil'], filename) );
+        SE = strel('rectangle', [9 9]);        
+        imMask = imerode(curImgMat.imMask, SE);
+        
+        [yy,xx] = find(imMask>0);
+        scFeatTrainValidIndex{i_img} = find(imMask>0);
+        patchLoc = [yy, xx]';
+        patchLoc = patchLoc*locationScaleFactor;
+        scFeatTrainLoc{i_img} = patchLoc;
+        
+        % overall area of the patches cover        
+        polyArea = sum(imMask(:)) * (locationScaleFactor^2);
+                
+        % variance-related
+        [varFea, score]= pca(patchLoc');
+        
+        % leftmost location, right most location, maximum radius, area covered        
+        locFeatTrain{count} = [min(patchLoc,[],2); max(patchLoc,[],2); max(sqrt(sum(patchLoc.^2))); polyArea; varFea(:); ...
+            ]; % max(score',[],2); min(score',[],2)   % max(score(:));min(score(:));];
+        
+%         W2 = genDistMap(dictLoc, curImgMat.imSize, curImgMat.feaSize(1:2), locationScaleFactor);        
+        cntr = size(WpreComputed); cntr = cntr(1:2)/2;
+        UL = round( cntr-curImgMat.feaSize(1:2)/2 );
+        W = WpreComputed( UL(1):UL(1)+curImgMat.feaSize(1)-1, UL(2):UL(2)+curImgMat.feaSize(2)-1, : );
+        
+        
+        imFeat = curImgMat.imFeaMap;
+        imFeat = reshape(imFeat, size(imFeat,1)*size(imFeat,2), size(imFeat,3)); 
+        imFeat = imFeat';
+        tmp = sqrt(sum(imFeat.^2,1));
+        tmpIdx = find(tmp>1);
+        imFeat(:,tmpIdx) = imFeat(:,tmpIdx) ./ repmat( tmp(tmpIdx), size(imFeat,1), 1 );
+        
+        W = reshape(W, size(W,1)*size(W,2), size(W,3));
+        V = dictMultiplier*imFeat;
+        tmpV = abs(V) - 2*lambda1*W';
+        tmpV(tmpV<0)=0;
+        A = sign(V).* tmpV;
+        
+        imMaskFeatSize = imresize(imMask, curImgMat.feaSize(1:2), 'nearest');
+        idx = reshape(imMaskFeatSize, [1, numel(imMaskFeatSize)]);
+        idx = find(idx==1);
+        scFeatTrain{count} = A(:,idx);
+    end
+end
+
+
+%% location-aware sparse coding on validation set
+labelpredVal = zeros(1,numel(testData));
+errorListVal = zeros(numel(pollenName),numel(testData));
+scFeatVal = cell(1,numel(testData));
+locFeatVal = cell(1,numel(testData));
+scFeatTestLoc = cell(1, numel(testData));
+scFeatTestValidIndex = cell(1, numel(testData));
+
+count = 0;
+for categID = 1:length(pollenName)    
+    fprintf('category-%s ---\n', pollenName{categID} );
+    
+    tmpMat = load( [pollenName{categID}, '_layer_' num2str(curLayer) '_shapeType_' shapeType '_globalContrastNorm.mat'] );
+    for i_img = numTrain+1:length(tmpMat.imList)
+        count = count + 1;
+        fprintf('\t image-%d/%d ---\n', i_img, length(tmpMat.imList) );
+        
+        filename = tmpMat.imList(i_img).name;
+        curImgMat = load( fullfile(databaseDestinationDir, ['layer_' num2str(curLayer) '_' pollenName{categID} ' fossil'], filename) );
+        SE = strel('rectangle', [9 9]);        
+        imMask = imerode(curImgMat.imMask, SE);
+        
+        [yy,xx] = find(imMask>0);
+        scFeatTestValidIndex{i_img} = find(imMask>0);
+        patchLoc = [yy, xx]';
+        patchLoc = patchLoc*locationScaleFactor;
+        scFeatTestLoc{i_img} = patchLoc;
+        
+        % overall area of the patches cover        
+        polyArea = sum(imMask(:)) * (locationScaleFactor^2);
+                
+        % variance-related
+        [varFea, score]= pca(patchLoc');
+        
+        % leftmost location, right most location, maximum radius, area covered        
+        locFeatVal{count} = [min(patchLoc,[],2); max(patchLoc,[],2); max(sqrt(sum(patchLoc.^2))); polyArea; varFea(:); ...
+            ]; % max(score',[],2); min(score',[],2)   % max(score(:));min(score(:));];
+        
+%         W = genDistMap(dictLoc, curImgMat.imSize, curImgMat.feaSize(1:2), locationScaleFactor);       
+        cntr = size(WpreComputed); cntr = cntr(1:2)/2;
+        UL = round( cntr-curImgMat.feaSize(1:2)/2 );
+        W = WpreComputed( UL(1):UL(1)+curImgMat.feaSize(1)-1, UL(2):UL(2)+curImgMat.feaSize(2)-1, : );
+        
+        imFeat = curImgMat.imFeaMap;
+        imFeat = reshape(imFeat, size(imFeat,1)*size(imFeat,2), size(imFeat,3)); 
+        imFeat = imFeat';
+        tmp = sqrt(sum(imFeat.^2,1));
+        tmpIdx = find(tmp>1);
+        imFeat(:,tmpIdx) = imFeat(:,tmpIdx) ./ repmat( tmp(tmpIdx), size(imFeat,1), 1 );
+        
+        W = reshape(W, size(W,1)*size(W,2), size(W,3));
+        V = dictMultiplier*imFeat;
+        tmpV = abs(V) - 2*lambda1*W';
+        tmpV(tmpV<0)=0;
+        A = sign(V).* tmpV;
+        
+        imMaskFeatSize = imresize(imMask, curImgMat.feaSize(1:2), 'nearest');
+        idx = reshape(imMaskFeatSize, [1, numel(imMaskFeatSize)]);
+        idx = find(idx==1);
+        scFeatVal{count} = A(:,idx);
+    end
+end
+
+%% get the average-pooling sparse codes for the final representation
+scXTrain = zeros(size(scFeatTrain{1},1), length(scFeatTrain));
+YTrain = zeros(numel(pollenName), length(scFeatTrain));
+locTrain = zeros(numel(pollenName), length(scFeatTrain));
+lcXTrain = zeros(size(locFeatTrain{1},1), length(scFeatTrain));
+
+for i = 1:length(scFeatTrain)
+%     TMP = scFeatTrain{i};
+%     TMP(TMP<0) = 0;
+%     scXTrain(:,i) = mean(TMP,2);
+    scXTrain(:,i) = mean(scFeatTrain{i},2);
+%     scXTrain(:,i) = mean( abs(scFeatTrain{i}),2);
+%     scXTrain(:,i) = max(scFeatTrain{i},[],2);
+
+    lcXTrain(:,i) = locFeatTrain{i};
+    YTrain(trainClassLabel(i),i) = 1;
+end
+% scXTrain = scXTrain ./ repmat( sqrt(sum(scXTrain.^2,1)), size(scXTrain,1), 1 );
+
+scXVal = zeros(size(scFeatVal{1},1), length(scFeatVal));
+YVal = zeros(numel(pollenName), length(scFeatVal));
+lcXval = zeros(size(locFeatVal{1},1), length(scFeatVal));
+for i = 1:length(scFeatVal)
+%     TMP = scFeatVal{i};
+%     TMP(TMP<0) = 0;
+%     scXVal(:,i) = mean(TMP,2);
+    scXVal(:,i) = mean(scFeatVal{i},2);
+%     scXVal(:,i) = mean(abs(scFeatVal{i}),2);
+%     scXVal(:,i) = max(scFeatVal{i},[],2);
+
+    lcXval(:,i) = locFeatVal{i};
+    YVal(testDataClassLabel(i),i) = 1;
+end
+% scXVal = scXVal ./ repmat( sqrt(sum(scXVal.^2,1)), size(scXVal,1), 1 );
+
+% A = scXTrain; B = scXTrain;
+% A(A<0) = 0; B(B>0) = 0;
+% scXTrain = [A; B;lcXTrain];
+% 
+% A = scXVal; B = scXVal;
+% A(A<0) = 0; B(B>0) = 0;
+% scXVal = [A; B;lcXval];
+
+
+scXTrain = [scXTrain; 1.62*lcXTrain]; % location statistics for shape
+scXVal = [scXVal;1.62*lcXval]; %
+
+% scXTrain = scXTrain ./ repmat( sqrt(sum(scXTrain.^2,1)), size(scXTrain,1), 1 );
+% scXVal = scXVal ./ repmat( sqrt(sum(scXVal.^2,1)), size(scXVal,1), 1 );
+
+%% svm on the sparse codes
+addpath(genpath('../toolbox/libsvm-3.20/matlab'));
+
+model = libsvm_svmtrain(trainClassLabel', scXTrain', '-s 0 -c 49 -t 0'); % linear 
+[predLabelVal, accuracy, dec_values] = libsvm_svmpredict(testDataClassLabel(:), scXVal', model); % test the training data
+predLabelVal = predLabelVal';
+SVMAcc = mean(testDataClassLabel(:) == predLabelVal(:));
+fprintf('\non validation set\n\taccuracy=%.4f (lambda1=%.4f, lambdaLoc=%.4f, T=%d)\n\n', SVMAcc, lambda1, lambdaLoc, T);
+
+for categID = 1:numel(pollenName)
+    a = find(testDataClassLabel==categID);
+    accTMP = mean(testDataClassLabel(a) == predLabelVal(a));
+    fprintf('\t\t%s acc:%.4f (#:%d)\n', pollenName{categID}, accTMP, length(a));
+    
+end
+
+for categID = 1:numel(pollenName)
+    a = find(testDataClassLabel==categID);
+    b = find(predLabelVal==categID);
+    fprintf('\ton validation Class%d #GT:%d #pred:%d\n', categID, length(a), length(b));
+end
+
+%% learning classifier from training set and test on validation set
+% alphaList = 0.5:0.01:1;
+alphaList = [0.01:0.0001:0.015];
+
+accMatTrain = zeros(numel(pollenName)+1, length(alphaList));
+accMatVal = zeros(numel(pollenName)+1, length(alphaList));
+
+for alpha_i = 1:length(alphaList)
+    alpha = alphaList(alpha_i);
+    
+    U = (scXTrain*scXTrain' + alpha*eye(size(scXTrain,1)))\scXTrain*YTrain';
+    
+    % accuracy on training set
+    YhatTrain = U'*scXTrain;
+    [~,predLabelTrain] = max(YhatTrain,[],1);
+    
+    acc = mean(trainClassLabel == predLabelTrain);
+%     fprintf('on training set\n\taccuracy=%.4f (lambda=%.4f, T=%d)\n', acc, lambda, T);
+    accMatTrain(end,alpha_i) = acc;
+    for categID = 1:numel(pollenName)
+        a = find(trainClassLabel==categID);
+        accTMP = mean(trainClassLabel(a) == predLabelTrain(a));
+%         fprintf('\t\t%s acc:%.4f (#:%d)\n', pollenName{categID}, accTMP, length(a));
+        accMatTrain(categID,alpha_i) = accTMP;
+    end
+    
+    % accuracy on validation set
+    YhatVal = U'*scXVal;
+    [~,predLabelVal] = max(YhatVal,[],1);
+    
+    % accuracy on validation set
+    acc = mean(testDataClassLabel == predLabelVal);
+%     fprintf('\non validation set\n\taccuracy=%.4f (lambda=%.4f, T=%d)\n', acc, lambda, T);
+    accMatVal(end,alpha_i) = acc;
+    
+    for categID = 1:numel(pollenName)
+        a = find(testDataClassLabel==categID);
+        accTMP = mean(testDataClassLabel(a) == predLabelVal(a));
+%         fprintf('\t\t%s acc:%.4f (#:%d)\n', pollenName{categID}, accTMP, length(a));
+        accMatVal(categID,alpha_i) = accTMP;
+    end
+end
+
+%disp(accMatVal)
+[bestAcc, alphaIdx] = max(accMatVal(end,:));
+fprintf('\nbest overall acc: %.4f, alpha=%.4f\n', bestAcc, alphaList(alphaIdx));
+disp(accMatVal(:,alphaIdx))
+
+for categID = 1:numel(pollenName)
+    a = find(trainClassLabel==categID);
+    b = find(predLabelTrain==categID);
+    fprintf('on train Class%d #GT:%d #pred:%d\n', categID, length(a), length(b));
+    
+    a = find(testDataClassLabel==categID);
+    b = find(predLabelVal==categID);
+    fprintf('on validation Class%d #GT:%d #pred:%d\n', categID, length(a), length(b));
+end
+
+%% save results
+save( ['./result5_wholeImage/valscFeatOnExemplar_layer' num2str(curLayer) '_' shapeType '_T' num2str(T) '_lambda1' num2str(lambda1) '_SVMAcc' num2str(SVMAcc) '_globalContrastNorm.mat'], ...
+    'bestAcc', 'alphaIdx',...       
+    'alphaList', 'accMatTrain', 'accMatVal', 'pollenName', 'trainClassLabel', 'scXTrain', 'testDataClassLabel', 'scXVal', 'U');

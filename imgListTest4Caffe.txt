@@ -1,0 +1,685 @@
+./database/critchfieldii fossil/61_CropPC-19_Slide8Pos2(OK).jpg 1
+./database/critchfieldii fossil/62_CropLBS-4-2_Slide12Pos13(OK).jpg 1
+./database/critchfieldii fossil/63_CropPC-19_Slide13Pos35(OK).jpg 1
+./database/critchfieldii fossil/64_CropPC-19_Slide18Pos3(GOOD-may need to re-image, part of grain missed).jpg 1
+./database/critchfieldii fossil/65_CropPC-21_Slide25Pos6(GOOD).jpg 1
+./database/critchfieldii fossil/66_CropLBS-4-2_Slide12Pos1(GOOD).jpg 1
+./database/critchfieldii fossil/67_CropLBS-4-2_Slide12Pos11(OK).jpg 1
+./database/critchfieldii fossil/68_CropPC-19_Slide13Pos10(GOOD).jpg 1
+./database/critchfieldii fossil/69_CropPC-20_Slide24Pos10.jpg 1
+./database/critchfieldii fossil/6_ZCropLBS-1_Slide16Pos4(OK).jpg 1
+./database/critchfieldii fossil/70_CropPC-20_Slide4Pos7(GOOD).jpg 1
+./database/critchfieldii fossil/71_CropPC-20_Slide24Pos10(OK).jpg 1
+./database/critchfieldii fossil/72_CropPC-19_Slide23Pos21(OK).jpg 1
+./database/critchfieldii fossil/73_CropPC-19_Slide33Pos27(GOOD).jpg 1
+./database/critchfieldii fossil/74_CropPC-19_Slide18Pos20(GOOD).jpg 1
+./database/critchfieldii fossil/75_CropPC-20_Slide9Pos2(GOOD).jpg 1
+./database/critchfieldii fossil/76_CropPC-19_Slide13Pos25(OK).jpg 1
+./database/critchfieldii fossil/77_CropPC-20_Slide24Pos8(OK).jpg 1
+./database/critchfieldii fossil/78_CropPC-19_Slide13Pos23(GOOD).jpg 1
+./database/critchfieldii fossil/79_CropPC-19_Slide18Pos30(GREAT).jpg 1
+./database/critchfieldii fossil/7_CropPC-19_Slide12Pos4(GOOD).jpg 1
+./database/critchfieldii fossil/80_CropPC-20_Slide19Pos13(OK).jpg 1
+./database/critchfieldii fossil/81_CropPC-21_Slide20Pos2(OK).jpg 1
+./database/critchfieldii fossil/82_CropLBS-4-2_Slide17Pos10(OK).jpg 1
+./database/critchfieldii fossil/83_ZCropLBS-1_Slide16Pos5(GOOD).jpg 1
+./database/critchfieldii fossil/84_CropPC-21_Slide20Pos1(OK).jpg 1
+./database/critchfieldii fossil/85_CropPC-19_Slide23Pos3(GOOD).jpg 1
+./database/critchfieldii fossil/86_CropPC-19_Slide23Pos17(OK).jpg 1
+./database/critchfieldii fossil/87_CropPC-19_Slide23Pos19(OK).jpg 1
+./database/critchfieldii fossil/88_CropPC-19_Slide18Pos25(GOOD).jpg 1
+./database/critchfieldii fossil/89_CropPC-19_Slide2Pos4(OK).jpg 1
+./database/critchfieldii fossil/8_CropPC-21_Slide25Pos8(OK).jpg 1
+./database/critchfieldii fossil/90_CropPC-19_Slide33Pos11(OK).jpg 1
+./database/critchfieldii fossil/91_CropPC-21_Slide20Pos8(GOOD).jpg 1
+./database/critchfieldii fossil/92_CropPC-21_Slide20Pos4(GOOD).jpg 1
+./database/critchfieldii fossil/93_CropPC-20_Slide19Pos7(OK).jpg 1
+./database/critchfieldii fossil/94_CropPC-19_Slide18Pos32(OK).jpg 1
+./database/critchfieldii fossil/95_CropPC-21_Slide20Pos6(GOOD).jpg 1
+./database/critchfieldii fossil/96_CropPC-19_Slide33Pos16(OK).jpg 1
+./database/critchfieldii fossil/97_CropPC-19_Slide18Pos28(OK).jpg 1
+./database/critchfieldii fossil/98_ZCropLBS-1_Slide1Pos2(GOOD).jpg 1
+./database/critchfieldii fossil/99_ZCropLBS-1_Slide11Pos1(OK).jpg 1
+./database/critchfieldii fossil/9_CropPC-19_Slide33Pos23(GOOD).jpg 1
+./database/glauca fossil/15_Nelson Lake NE906 Pos 290.jpg 2
+./database/glauca fossil/160_Nelson Lake 898 NE898 Pos 228.jpg 2
+./database/glauca fossil/161_Nelson Lake NE906 Pos 283.jpg 2
+./database/glauca fossil/162_Nelson Lake 930 NE930 Pos 180.jpg 2
+./database/glauca fossil/163_Nelson Lake NE1010 Pos 173.jpg 2
+./database/glauca fossil/164_Nelson Lake NE906 Pos 267.jpg 2
+./database/glauca fossil/165_Nelson Lake 930 NE930 Pos 239.jpg 2
+./database/glauca fossil/166_Nelson Lake 930 NE930 Pos 82.jpg 2
+./database/glauca fossil/167_Nelson Lake NE906 Pos 34.jpg 2
+./database/glauca fossil/168_Nelson Lake 930 NE930 Pos 288.jpg 2
+./database/glauca fossil/169_Nelson Lake NE978 Pos 107 cropped.jpg 2
+./database/glauca fossil/16_Nelson Lake 930 NE930 Pos 263.jpg 2
+./database/glauca fossil/170_Nelson Lake NE978 Pos 42 cropped.jpg 2
+./database/glauca fossil/171_Nelson Lake NE954 Pos 218.jpg 2
+./database/glauca fossil/172_Nelson Lake NE 1010 Pos 9 cropped.jpg 2
+./database/glauca fossil/173_Nelson Lake NE906 Pos 268.jpg 2
+./database/glauca fossil/174_Nelson Lake 898 NE898 Pos 144.jpg 2
+./database/glauca fossil/175_Nelson Lake NE978 Pos 220 cropped.jpg 2
+./database/glauca fossil/176_Nelson Lake NE978 Pos 181 cropped.jpg 2
+./database/glauca fossil/177_Nelson Lake NE954 Pos 96.jpg 2
+./database/glauca fossil/178_Nelson Lake 930 NE930 Pos 244.jpg 2
+./database/glauca fossil/179_Nelson Lake NE906 Pos 289.jpg 2
+./database/glauca fossil/17_Nelson Lake NE906 Pos 300.jpg 2
+./database/glauca fossil/180_Nelson Lake 794 NE794 Pos 160.jpg 2
+./database/glauca fossil/181_Nelson Lake NE778 Pos 104.jpg 2
+./database/glauca fossil/182_Nelson Lake NE 1010 Pos 17 cropped.jpg 2
+./database/glauca fossil/183_Nelson Lake 898 NE898 Pos 35.jpg 2
+./database/glauca fossil/184_Nelson Lake 930 NE930 Pos 106.jpg 2
+./database/glauca fossil/185_Nelson Lake NE734 Pos 49.jpg 2
+./database/glauca fossil/186_Nelson Lake 794 NE794 Pos 72.jpg 2
+./database/glauca fossil/187_Nelson Lake NE906 Pos 295.jpg 2
+./database/glauca fossil/188_Nelson Lake NE830 Pos 109.jpg 2
+./database/glauca fossil/189_Nelson Lake NE954 Pos 176.jpg 2
+./database/glauca fossil/18_Nelson Lake NE954 Pos 198.jpg 2
+./database/glauca fossil/190_Nelson Lake NE954 Pos 19.jpg 2
+./database/glauca fossil/191_Nelson Lake NE906 Pos 38.jpg 2
+./database/glauca fossil/192_Nelson Lake 794 NE794 Pos 177.jpg 2
+./database/glauca fossil/193_Nelson Lake 794 NE794 Pos 248.jpg 2
+./database/glauca fossil/194_Nelson Lake NE 1010 Pos 31 cropped.jpg 2
+./database/glauca fossil/195_Nelson Lake NE906 Pos 128.jpg 2
+./database/glauca fossil/196_Nelson Lake NE906 Pos 67.jpg 2
+./database/glauca fossil/197_Nelson Lake NE734 Pos 11.jpg 2
+./database/glauca fossil/198_Nelson Lake NE978 Pos 104 cropped.jpg 2
+./database/glauca fossil/199_Nelson Lake NE954 Pos 201.jpg 2
+./database/glauca fossil/19_Nelson Lake 930 NE930 Pos 161.jpg 2
+./database/glauca fossil/1_Nelson Lake 930 NE930 Pos 178.jpg 2
+./database/glauca fossil/200_Nelson Lake NE978 Pos 313 cropped.jpg 2
+./database/glauca fossil/201_Nelson Lake NE906 Pos 14.jpg 2
+./database/glauca fossil/202_Nelson Lake NE 1010 Pos 34 cropped.jpg 2
+./database/glauca fossil/203_Nelson Lake 898 NE898 Pos 106.jpg 2
+./database/glauca fossil/204_Nelson Lake NE906 Pos 324.jpg 2
+./database/glauca fossil/205_Nelson Lake NE954 Pos 56.jpg 2
+./database/glauca fossil/206_Nelson Lake NE734 Pos 54.jpg 2
+./database/glauca fossil/207_Nelson Lake 794 NE794 Pos 267.jpg 2
+./database/glauca fossil/208_Nelson Lake 930 NE930 Pos 41.jpg 2
+./database/glauca fossil/209_Nelson Lake 898 NE898 Pos 339.jpg 2
+./database/glauca fossil/20_Nelson Lake 898 NE898 Pos 213.jpg 2
+./database/glauca fossil/210_Nelson Lake 930 NE930 Pos 60.jpg 2
+./database/glauca fossil/211_Nelson Lake NE778 Pos 256.jpg 2
+./database/glauca fossil/212_Nelson Lake NE830 Pos 94.jpg 2
+./database/glauca fossil/213_Nelson Lake NE778 Pos 363.jpg 2
+./database/glauca fossil/214_Nelson Lake NE978 Pos 177 cropped.jpg 2
+./database/glauca fossil/215_Nelson Lake NE830 Pos 333.jpg 2
+./database/glauca fossil/216_Nelson Lake NE978 Pos 294 right cropped.jpg 2
+./database/glauca fossil/217_Nelson Lake NE906 Pos 373.jpg 2
+./database/glauca fossil/218_Nelson Lake NE978 Pos 30 cropped.jpg 2
+./database/glauca fossil/219_Nelson Lake 930 NE930 Pos 220.jpg 2
+./database/glauca fossil/21_Nelson Lake 930 NE930 Pos 92.jpg 2
+./database/glauca fossil/220_Nelson Lake NE954 Pos 138.jpg 2
+./database/glauca fossil/221_Nelson Lake 930 NE930 Pos 80.jpg 2
+./database/glauca fossil/222_Nelson Lake NE954 Pos 133.jpg 2
+./database/glauca fossil/223_Nelson Lake NE954 Pos 171.jpg 2
+./database/glauca fossil/224_Nelson Lake 794 NE794 Pos 236.jpg 2
+./database/glauca fossil/225_Nelson Lake 930 NE930 Pos 24.jpg 2
+./database/glauca fossil/226_Nelson Lake 930 NE930 Pos 168.jpg 2
+./database/glauca fossil/227_Nelson Lake NE954 Pos 112.jpg 2
+./database/glauca fossil/228_Nelson Lake NE978 Pos 15 cropped.jpg 2
+./database/glauca fossil/229_Nelson Lake NE1010 Pos 100.jpg 2
+./database/glauca fossil/22_Nelson Lake NE 1010 Pos 29 cropped.jpg 2
+./database/glauca fossil/230_Nelson Lake NE954 Pos 59.jpg 2
+./database/glauca fossil/231_Nelson Lake NE954 Pos 134.jpg 2
+./database/glauca fossil/232_Nelson Lake 794 NE794 Pos 124.jpg 2
+./database/glauca fossil/233_Nelson Lake NE906 Pos 3.jpg 2
+./database/glauca fossil/234_Nelson Lake NE1010 Pos 178.jpg 2
+./database/glauca fossil/235_Nelson Lake NE978 Pos 224 cropped.jpg 2
+./database/glauca fossil/236_Nelson Lake 794 NE794 Pos 117.jpg 2
+./database/glauca fossil/237_Nelson Lake NE830 Pos 105 - Grain 2.jpg 2
+./database/glauca fossil/238_Nelson Lake NE734 Pos 96.jpg 2
+./database/glauca fossil/239_Nelson Lake NE778 Pos 9.jpg 2
+./database/glauca fossil/23_Nelson Lake NE734 Pos 58.jpg 2
+./database/glauca fossil/240_Nelson Lake NE954 Pos 51.jpg 2
+./database/glauca fossil/241_Nelson Lake NE 1010 Pos 32 cropped.jpg 2
+./database/glauca fossil/242_Nelson Lake NE954 Pos 6.jpg 2
+./database/glauca fossil/243_Nelson Lake NE830 Pos 126.jpg 2
+./database/glauca fossil/244_Nelson Lake 794 NE794 Pos 180.jpg 2
+./database/glauca fossil/245_Nelson Lake 898 NE898 Pos 94.jpg 2
+./database/glauca fossil/246_Nelson Lake NE954 Pos 210.jpg 2
+./database/glauca fossil/247_Nelson Lake NE830 Pos 137.jpg 2
+./database/glauca fossil/248_Nelson Lake 898 NE898 Pos 338.jpg 2
+./database/glauca fossil/249_Nelson Lake NE 1010 Pos 63 cropped.jpg 2
+./database/glauca fossil/24_Nelson Lake NE830 Pos 323.jpg 2
+./database/glauca fossil/250_Nelson Lake NE906 Pos 319.jpg 2
+./database/glauca fossil/251_Nelson Lake 930 NE930 Pos 127.jpg 2
+./database/glauca fossil/252_Nelson Lake NE954 Pos 225.jpg 2
+./database/glauca fossil/253_Nelson Lake 930 NE930 Pos 225.jpg 2
+./database/glauca fossil/254_Nelson Lake NE978 Pos 238 Grain 1 cropped.jpg 2
+./database/glauca fossil/255_Nelson Lake 930 NE930 Pos 43.jpg 2
+./database/glauca fossil/256_Nelson Lake NE954 Pos 245.jpg 2
+./database/glauca fossil/257_Nelson Lake 930 NE930 Pos 117.jpg 2
+./database/glauca fossil/258_Nelson Lake 930 NE930 Pos 74.jpg 2
+./database/glauca fossil/259_Nelson Lake 794 NE794 Pos 281.jpg 2
+./database/glauca fossil/25_Nelson Lake 794 NE794 Pos 264.jpg 2
+./database/glauca fossil/260_Nelson Lake NE906 Pos 239.jpg 2
+./database/glauca fossil/261_Nelson Lake NE954 Pos 164.jpg 2
+./database/glauca fossil/262_Nelson Lake NE906 Pos 20.jpg 2
+./database/glauca fossil/263_Nelson Lake NE778 Pos 112.jpg 2
+./database/glauca fossil/264_Nelson Lake NE906 Pos 385.jpg 2
+./database/glauca fossil/265_Nelson Lake NE906 Pos 60.jpg 2
+./database/glauca fossil/266_Nelson Lake NE954 Pos 15.jpg 2
+./database/glauca fossil/267_Nelson Lake NE906 Pos 371.jpg 2
+./database/glauca fossil/268_Nelson Lake NE978 Pos 297 bottom cropped - BUMP at slice 28.jpg 2
+./database/glauca fossil/269_Nelson Lake 930 NE930 Pos 156.jpg 2
+./database/glauca fossil/26_Nelson Lake 930 NE930 Pos 268.jpg 2
+./database/glauca fossil/270_Nelson Lake NE954 Pos 195.jpg 2
+./database/glauca fossil/271_Nelson Lake 930 NE930 Pos 194.jpg 2
+./database/glauca fossil/272_Nelson Lake 898 NE898 Pos 225.jpg 2
+./database/glauca fossil/273_Nelson Lake NE906 Pos 313.jpg 2
+./database/glauca fossil/274_Nelson Lake NE778 Pos 337.jpg 2
+./database/glauca fossil/275_Nelson Lake NE778 Pos 376.jpg 2
+./database/glauca fossil/276_Nelson Lake NE906 Pos 90.jpg 2
+./database/glauca fossil/277_Nelson Lake NE954 Pos 53.jpg 2
+./database/glauca fossil/278_Nelson Lake NE1010 Pos 149.jpg 2
+./database/glauca fossil/279_Nelson Lake NE954 Pos 101.jpg 2
+./database/glauca fossil/27_Nelson Lake NE954 Pos 81.jpg 2
+./database/glauca fossil/280_Nelson Lake NE734 Pos 135.jpg 2
+./database/glauca fossil/281_Nelson Lake NE978 Pos 146 cropped.jpg 2
+./database/glauca fossil/282_Nelson Lake NE978 Pos 129 cropped.jpg 2
+./database/glauca fossil/283_Nelson Lake 930 NE930 Pos 240.jpg 2
+./database/glauca fossil/284_Nelson Lake NE906 Pos 339.jpg 2
+./database/glauca fossil/285_Nelson Lake NE906 Pos 25.jpg 2
+./database/glauca fossil/286_Nelson Lake NE906 Pos 16.jpg 2
+./database/glauca fossil/287_Nelson Lake NE978 Pos 176 cropped.jpg 2
+./database/glauca fossil/288_Nelson Lake 930 NE930 Pos 280.jpg 2
+./database/glauca fossil/289_Nelson Lake NE 1010 Pos 18 cropped.jpg 2
+./database/glauca fossil/28_Nelson Lake 794 NE794 Pos 164.jpg 2
+./database/glauca fossil/290_Nelson Lake 898 NE898 Pos 223.jpg 2
+./database/glauca fossil/291_Nelson Lake NE978 Pos 273 cropped.jpg 2
+./database/glauca fossil/292_Nelson Lake NE906 Pos 43.jpg 2
+./database/glauca fossil/293_Nelson Lake NE830 Pos 145.jpg 2
+./database/glauca fossil/294_Nelson Lake NE906 Pos 380.jpg 2
+./database/glauca fossil/295_Nelson Lake NE906 Pos 2.jpg 2
+./database/glauca fossil/296_Nelson Lake NE906 Pos 5.jpg 2
+./database/glauca fossil/297_Nelson Lake NE906 Pos 175.jpg 2
+./database/glauca fossil/298_Nelson Lake NE954 Pos 202.jpg 2
+./database/glauca fossil/299_Nelson Lake NE830 Pos 77.jpg 2
+./database/glauca fossil/29_Nelson Lake NE978 Pos 247 bottom cropped.jpg 2
+./database/glauca fossil/2_Nelson Lake 898 NE898 Pos 36.jpg 2
+./database/glauca fossil/300_Nelson Lake NE978 Pos 86 cropped.jpg 2
+./database/glauca fossil/301_Nelson Lake 930 NE930 Pos 160.jpg 2
+./database/glauca fossil/302_Nelson Lake 898 NE898 Pos 130.jpg 2
+./database/glauca fossil/303_Nelson Lake 898 NE898 Pos 155.jpg 2
+./database/glauca fossil/304_Nelson Lake 794 NE794 Pos 233.jpg 2
+./database/glauca fossil/305_Nelson Lake NE1010 Pos 94.jpg 2
+./database/glauca fossil/306_Nelson Lake NE778 Pos 319.jpg 2
+./database/glauca fossil/307_Nelson Lake NE1010 Pos 151.jpg 2
+./database/glauca fossil/308_Nelson Lake NE954 Pos 244.jpg 2
+./database/glauca fossil/309_Nelson Lake NE906 Pos 347.jpg 2
+./database/glauca fossil/30_Nelson Lake NE954 Pos 220.jpg 2
+./database/glauca fossil/310_Nelson Lake NE954 Pos 55.jpg 2
+./database/glauca fossil/311_Nelson Lake NE978 Pos 252 cropped.jpg 2
+./database/glauca fossil/312_Nelson Lake NE978 Pos 33 cropped.jpg 2
+./database/glauca fossil/313_Nelson Lake 930 NE930 Pos 14.jpg 2
+./database/glauca fossil/314_Nelson Lake 898 NE898 Pos 255.jpg 2
+./database/glauca fossil/315_Nelson Lake NE954 Pos 177.jpg 2
+./database/glauca fossil/316_Nelson Lake 794 NE794 Pos 46.jpg 2
+./database/glauca fossil/317_Nelson Lake NE830 Pos 86.jpg 2
+./database/glauca fossil/318_Nelson Lake NE906 Pos 11.jpg 2
+./database/glauca fossil/319_Nelson Lake NE978 Pos 17 cropped.jpg 2
+./database/glauca fossil/31_Nelson Lake NE830 Pos 253.jpg 2
+./database/glauca fossil/320_Nelson Lake NE830 Pos 174.jpg 2
+./database/glauca fossil/321_Nelson Lake NE1010 Pos 79.jpg 2
+./database/glauca fossil/322_Nelson Lake NE954 Pos 124.jpg 2
+./database/glauca fossil/323_Nelson Lake NE954 Pos 235.jpg 2
+./database/glauca fossil/324_Nelson Lake NE830 Pos 56.jpg 2
+./database/glauca fossil/325_Nelson Lake NE1010 Pos 143.jpg 2
+./database/glauca fossil/326_Nelson Lake 898 NE898 Pos 334.jpg 2
+./database/glauca fossil/327_Nelson Lake NE906 Pos 275.jpg 2
+./database/glauca fossil/328_Nelson Lake 930 NE930 Pos 254.jpg 2
+./database/glauca fossil/329_Nelson Lake 794 NE794 Pos 190.jpg 2
+./database/glauca fossil/32_Nelson Lake NE906 Pos 244.jpg 2
+./database/glauca fossil/330_Nelson Lake NE954 Pos 241.jpg 2
+./database/glauca fossil/331_Nelson Lake 930 NE930 Pos 222.jpg 2
+./database/glauca fossil/332_Nelson Lake NE778 Pos 317.jpg 2
+./database/glauca fossil/333_Nelson Lake NE954 Pos 167.jpg 2
+./database/glauca fossil/334_Nelson Lake NE1010 Pos 150.jpg 2
+./database/glauca fossil/335_Nelson Lake NE954 Pos 221.jpg 2
+./database/glauca fossil/336_Nelson Lake NE1010 Pos 81.jpg 2
+./database/glauca fossil/337_Nelson Lake NE954 Pos 166.jpg 2
+./database/glauca fossil/338_Nelson Lake NE954 Pos 194.jpg 2
+./database/glauca fossil/339_Nelson Lake NE778 Pos 283.jpg 2
+./database/glauca fossil/33_Nelson Lake 930 NE930 Pos 203.jpg 2
+./database/glauca fossil/340_Nelson Lake 794 NE794 Pos 157.jpg 2
+./database/glauca fossil/341_Nelson Lake NE 1010 Pos 44 cropped.jpg 2
+./database/glauca fossil/342_Nelson Lake NE734 Pos 84.jpg 2
+./database/glauca fossil/343_Nelson Lake 930 NE930 Pos 51.jpg 2
+./database/glauca fossil/344_Nelson Lake 930 NE930 Pos 140.jpg 2
+./database/glauca fossil/345_Nelson Lake NE978 Pos 106 cropped.jpg 2
+./database/glauca fossil/346_Nelson Lake NE778 Pos 165.jpg 2
+./database/glauca fossil/347_Nelson Lake NE978 Pos 198 Grain 1 cropped.jpg 2
+./database/glauca fossil/348_Nelson Lake NE1010 Pos 70.jpg 2
+./database/glauca fossil/349_Nelson Lake NE954 Pos 44.jpg 2
+./database/glauca fossil/34_Nelson Lake NE778 Pos 64.jpg 2
+./database/glauca fossil/350_Nelson Lake NE1010 Pos 85.jpg 2
+./database/glauca fossil/351_Nelson Lake NE954 Pos 90.jpg 2
+./database/glauca fossil/352_Nelson Lake NE954 Pos 243.jpg 2
+./database/glauca fossil/353_Nelson Lake NE1010 Pos 164.jpg 2
+./database/glauca fossil/354_Nelson Lake 930 NE930 Pos 157.jpg 2
+./database/glauca fossil/355_Nelson Lake NE954 Pos 68.jpg 2
+./database/glauca fossil/356_Nelson Lake NE978 Pos 297 top cropped - BUMP at slice 28.jpg 2
+./database/glauca fossil/357_Nelson Lake NE 1010 Pos 4 cropped.jpg 2
+./database/glauca fossil/358_Nelson Lake NE954 Pos 120.jpg 2
+./database/glauca fossil/359_Nelson Lake NE778 Pos 194.jpg 2
+./database/glauca fossil/35_Nelson Lake NE978 Pos 305 cropped.jpg 2
+./database/glauca fossil/360_Nelson Lake NE978 Pos 130 cropped.jpg 2
+./database/glauca fossil/361_Nelson Lake NE954 Pos 247.jpg 2
+./database/glauca fossil/362_Nelson Lake 898 NE898 Pos 355.jpg 2
+./database/glauca fossil/363_Nelson Lake NE978 Pos 172 cropped.jpg 2
+./database/glauca fossil/364_Nelson Lake NE978 Pos 6 cropped.jpg 2
+./database/glauca fossil/365_Nelson Lake NE830 Pos 328.jpg 2
+./database/glauca fossil/366_Nelson Lake NE978 Pos 191 cropped.jpg 2
+./database/glauca fossil/367_Nelson Lake NE906 Pos 277.jpg 2
+./database/glauca fossil/368_Nelson Lake 898 NE898 Pos 34.jpg 2
+./database/glauca fossil/369_Nelson Lake 930 NE930 Pos 153.jpg 2
+./database/glauca fossil/36_Nelson Lake NE906 Pos 207.jpg 2
+./database/glauca fossil/370_Nelson Lake NE734 Pos 105.jpg 2
+./database/glauca fossil/371_Nelson Lake NE954 Pos 240.jpg 2
+./database/glauca fossil/372_Nelson Lake NE978 Pos 118 cropped.jpg 2
+./database/glauca fossil/373_Nelson Lake NE954 Pos 62.jpg 2
+./database/glauca fossil/374_Nelson Lake NE 1010 Pos 21 cropped.jpg 2
+./database/glauca fossil/375_Nelson Lake NE906 Pos 15.jpg 2
+./database/glauca fossil/376_Nelson Lake 794 NE794 Pos 266.jpg 2
+./database/glauca fossil/377_Nelson Lake 898 NE898 Pos 206.jpg 2
+./database/glauca fossil/378_Nelson Lake 898 NE898 Pos 246.jpg 2
+./database/glauca fossil/379_Nelson Lake NE954 Pos 139.jpg 2
+./database/glauca fossil/37_Nelson Lake NE830 Pos 70.jpg 2
+./database/glauca fossil/380_Nelson Lake NE830 Pos 303.jpg 2
+./database/glauca fossil/381_Nelson Lake 930 NE930 Pos 120.jpg 2
+./database/glauca fossil/382_Nelson Lake NE830 Pos 295.jpg 2
+./database/glauca fossil/383_Nelson Lake 898 NE898 Pos 312.jpg 2
+./database/glauca fossil/384_Nelson Lake 794 NE794 Pos 212.jpg 2
+./database/glauca fossil/385_Nelson Lake NE978 Pos 156 cropped.jpg 2
+./database/glauca fossil/386_Nelson Lake NE906 Pos 23.jpg 2
+./database/glauca fossil/387_Nelson Lake NE978 Pos 247 top cropped.jpg 2
+./database/glauca fossil/388_Nelson Lake NE954 Pos 180.jpg 2
+./database/glauca fossil/389_Nelson Lake NE906 Pos 259.jpg 2
+./database/glauca fossil/38_Nelson Lake 930 NE930 Pos 189.jpg 2
+./database/glauca fossil/390_Nelson Lake NE954 Pos 91.jpg 2
+./database/glauca fossil/391_Nelson Lake NE978 Pos 178 cropped.jpg 2
+./database/glauca fossil/392_Nelson Lake NE978 Pos 56 cropped.jpg 2
+./database/glauca fossil/393_Nelson Lake 794 NE794 Pos 106.jpg 2
+./database/glauca fossil/394_Nelson Lake NE978 Pos 173 cropped.jpg 2
+./database/glauca fossil/395_Nelson Lake NE906 Pos 325.jpg 2
+./database/glauca fossil/396_Nelson Lake NE978 Pos 74 cropped.jpg 2
+./database/glauca fossil/397_Nelson Lake NE906 Pos 10.jpg 2
+./database/glauca fossil/398_Nelson Lake NE830 Pos 147.jpg 2
+./database/glauca fossil/399_Nelson Lake NE954 Pos 84.jpg 2
+./database/glauca fossil/39_Nelson Lake NE830 Pos 26 - Grain 1.jpg 2
+./database/glauca fossil/3_Nelson Lake 930 NE930 Pos 181.jpg 2
+./database/glauca fossil/400_Nelson Lake 930 NE930 Pos 184.jpg 2
+./database/glauca fossil/401_Nelson Lake NE830 Pos 308.jpg 2
+./database/glauca fossil/402_Nelson Lake NE978 Pos 204 cropped.jpg 2
+./database/glauca fossil/403_Nelson Lake NE906 Pos 236.jpg 2
+./database/glauca fossil/404_Nelson Lake NE978 Pos 152 cropped.jpg 2
+./database/glauca fossil/405_Nelson Lake NE954 Pos 227.jpg 2
+./database/glauca fossil/406_Nelson Lake NE906 Pos 274.jpg 2
+./database/glauca fossil/407_Nelson Lake 930 NE930 Pos 234.jpg 2
+./database/glauca fossil/408_Nelson Lake NE954 Pos 11.jpg 2
+./database/glauca fossil/409_Nelson Lake 794 NE794 Pos 260.jpg 2
+./database/glauca fossil/40_Nelson Lake NE906 Pos 343.jpg 2
+./database/glauca fossil/410_Nelson Lake NE906 Pos 346.jpg 2
+./database/glauca fossil/411_Nelson Lake NE906 Pos 9.jpg 2
+./database/glauca fossil/412_Nelson Lake NE954 Pos 215.jpg 2
+./database/glauca fossil/413_Nelson Lake NE978 Pos 198 Grain 3 cropped.jpg 2
+./database/glauca fossil/414_Nelson Lake NE978 Pos 40 cropped.jpg 2
+./database/glauca fossil/415_Nelson Lake NE954 Pos 4.jpg 2
+./database/glauca fossil/416_Nelson Lake NE906 Pos 248.jpg 2
+./database/glauca fossil/417_Nelson Lake NE978 Pos 243 cropped.jpg 2
+./database/glauca fossil/418_Nelson Lake NE906 Pos 245.jpg 2
+./database/glauca fossil/419_Nelson Lake 794 NE794 Pos 148.jpg 2
+./database/glauca fossil/41_Nelson Lake NE954 Pos 155.jpg 2
+./database/glauca fossil/420_Nelson Lake 898 NE898 Pos 233.jpg 2
+./database/glauca fossil/42_Nelson Lake NE1010 Pos 83.jpg 2
+./database/glauca fossil/43_Nelson Lake NE1010 Pos 155.jpg 2
+./database/glauca fossil/44_Nelson Lake NE978 Pos 47 cropped.jpg 2
+./database/glauca fossil/45_Nelson Lake 794 NE794 Pos 181.jpg 2
+./database/glauca fossil/46_Nelson Lake NE978 Pos 192 cropped.jpg 2
+./database/glauca fossil/47_Nelson Lake NE978 Pos 223 cropped.jpg 2
+./database/glauca fossil/48_Nelson Lake NE954 Pos 74.jpg 2
+./database/glauca fossil/49_Nelson Lake 794 NE794 Pos 95.jpg 2
+./database/glauca fossil/4_Nelson Lake NE778 Pos 182.jpg 2
+./database/glauca fossil/50_Nelson Lake 930 NE930 Pos 250.jpg 2
+./database/glauca fossil/51_Nelson Lake NE 1010 Pos 53 cropped.jpg 2
+./database/glauca fossil/52_Nelson Lake NE954 Pos 161.jpg 2
+./database/glauca fossil/53_Nelson Lake 898 NE898 Pos 251.jpg 2
+./database/glauca fossil/54_Nelson Lake NE954 Pos 205.jpg 2
+./database/glauca fossil/55_Nelson Lake 898 NE898 Pos 143.jpg 2
+./database/glauca fossil/56_Nelson Lake NE906 Pos 65.jpg 2
+./database/glauca fossil/57_Nelson Lake NE830 Pos 285.jpg 2
+./database/glauca fossil/58_Nelson Lake NE954 Pos 57.jpg 2
+./database/glauca fossil/59_Nelson Lake NE954 Pos 2.jpg 2
+./database/glauca fossil/5_Nelson Lake NE 1010 Pos 12 cropped.jpg 2
+./database/glauca fossil/60_Nelson Lake NE978 Pos 209 cropped.jpg 2
+./database/glauca fossil/61_Nelson Lake NE978 Pos 202 cropped.jpg 2
+./database/glauca fossil/62_Nelson Lake NE 1010 Pos 48 cropped.jpg 2
+./database/glauca fossil/63_Nelson Lake NE954 Pos 183.jpg 2
+./database/glauca fossil/64_Nelson Lake 930 NE930 Pos 145.jpg 2
+./database/glauca fossil/65_Nelson Lake 794 NE794 Pos 168.jpg 2
+./database/glauca fossil/66_Nelson Lake NE954 Pos 239.jpg 2
+./database/glauca fossil/67_Nelson Lake NE830 Pos 315.jpg 2
+./database/glauca fossil/68_Nelson Lake NE830 Pos 152.jpg 2
+./database/glauca fossil/69_Nelson Lake NE978 Pos 215 cropped.jpg 2
+./database/glauca fossil/6_Nelson Lake NE978 Pos 241 cropped.jpg 2
+./database/glauca fossil/70_Nelson Lake NE906 Pos 321.jpg 2
+./database/glauca fossil/71_Nelson Lake NE906 Pos 340.jpg 2
+./database/glauca fossil/72_Nelson Lake NE978 Pos 162 cropped.jpg 2
+./database/glauca fossil/73_Nelson Lake NE954 Pos 9.jpg 2
+./database/glauca fossil/74_Nelson Lake NE906 Pos 243.jpg 2
+./database/glauca fossil/75_Nelson Lake 930 NE930 Pos 110.jpg 2
+./database/glauca fossil/76_Nelson Lake 930 NE930 Pos 210.jpg 2
+./database/glauca fossil/77_Nelson Lake NE978 Pos 197 cropped.jpg 2
+./database/glauca fossil/78_Nelson Lake 794 NE794 Pos 161.jpg 2
+./database/glauca fossil/79_Nelson Lake NE830 Pos 271.jpg 2
+./database/glauca fossil/7_Nelson Lake NE778 Pos 174.jpg 2
+./database/glauca fossil/80_Nelson Lake 898 NE898 Pos 357.jpg 2
+./database/glauca fossil/81_Nelson Lake NE978 Pos 35 cropped.jpg 2
+./database/glauca fossil/82_Nelson Lake NE954 Pos 199.jpg 2
+./database/glauca fossil/83_Nelson Lake NE830 Pos 317.jpg 2
+./database/glauca fossil/84_Nelson Lake NE830 Pos 115.jpg 2
+./database/glauca fossil/85_Nelson Lake 794 NE794 Pos 213.jpg 2
+./database/glauca fossil/86_Nelson Lake NE954 Pos 163.jpg 2
+./database/glauca fossil/87_Nelson Lake 794 NE794 Pos 189.jpg 2
+./database/glauca fossil/88_Nelson Lake 794 NE794 Pos 249.jpg 2
+./database/glauca fossil/89_Nelson Lake NE830 Pos 76.jpg 2
+./database/glauca fossil/8_Nelson Lake 930 NE930 Pos 113.jpg 2
+./database/glauca fossil/90_Nelson Lake 794 NE794 Pos 91.jpg 2
+./database/glauca fossil/91_Nelson Lake NE978 Pos 101 cropped.jpg 2
+./database/glauca fossil/92_Nelson Lake NE954 Pos 95.jpg 2
+./database/glauca fossil/93_Nelson Lake NE954 Pos 213.jpg 2
+./database/glauca fossil/94_Nelson Lake 898 NE898 Pos 332.jpg 2
+./database/glauca fossil/95_Nelson Lake NE906 Pos 80.jpg 2
+./database/glauca fossil/96_Nelson Lake NE830 Pos 46.jpg 2
+./database/glauca fossil/97_Nelson Lake NE978 Pos 34 cropped.jpg 2
+./database/glauca fossil/98_Nelson Lake NE906 Pos 62.jpg 2
+./database/glauca fossil/99_Nelson Lake NE954 Pos 77.jpg 2
+./database/glauca fossil/9_Nelson Lake NE978 Pos 219 cropped.jpg 2
+./database/mariana fossil/15_Nelson Lake 898 NE898 Pos 288.jpg 3
+./database/mariana fossil/160_Nelson Lake 794 NE794 Pos 224.jpg 3
+./database/mariana fossil/161_Nelson Lake 794 NE794 Pos 48.jpg 3
+./database/mariana fossil/162_Nelson Lake 794 NE794 Pos 79.jpg 3
+./database/mariana fossil/163_Nelson Lake NE906 Pos 263.jpg 3
+./database/mariana fossil/164_Nelson Lake NE978 Pos 255 cropped.jpg 3
+./database/mariana fossil/165_Nelson Lake NE830 Pos 23.jpg 3
+./database/mariana fossil/166_Nelson Lake 898 NE898 Pos 261.jpg 3
+./database/mariana fossil/167_Nelson Lake NE830 Pos 300.jpg 3
+./database/mariana fossil/168_Nelson Lake 898 NE898 Pos 16.jpg 3
+./database/mariana fossil/169_Nelson Lake 898 NE898 Pos 175.jpg 3
+./database/mariana fossil/16_Nelson Lake 898 NE898 Pos 87.jpg 3
+./database/mariana fossil/170_Nelson Lake NE830 Pos 135.jpg 3
+./database/mariana fossil/171_Nelson Lake NE 1010 Pos 56 cropped.jpg 3
+./database/mariana fossil/172_Nelson Lake NE830 Pos 163.jpg 3
+./database/mariana fossil/173_Nelson Lake NE830 Pos 99.jpg 3
+./database/mariana fossil/174_Nelson Lake NE778 Pos 53.jpg 3
+./database/mariana fossil/175_Nelson Lake NE830 Pos 49.jpg 3
+./database/mariana fossil/176_Nelson Lake 930 NE930 Pos 253.jpg 3
+./database/mariana fossil/177_Nelson Lake NE830 Pos 36.jpg 3
+./database/mariana fossil/178_Nelson Lake NE978 Pos 287 cropped.jpg 3
+./database/mariana fossil/179_Nelson Lake NE954 Pos 203.jpg 3
+./database/mariana fossil/17_Nelson Lake 794 NE794 Pos 170.jpg 3
+./database/mariana fossil/180_Nelson Lake 794 NE794 Pos 73.jpg 3
+./database/mariana fossil/181_Nelson Lake NE1010 Pos 169.jpg 3
+./database/mariana fossil/182_Nelson Lake NE1010 Pos 171.jpg 3
+./database/mariana fossil/183_Nelson Lake NE830 Pos 245.jpg 3
+./database/mariana fossil/184_Nelson Lake NE778 Pos 66.jpg 3
+./database/mariana fossil/185_Nelson Lake NE906 Pos 201.jpg 3
+./database/mariana fossil/186_Nelson Lake NE1010 Pos 170.jpg 3
+./database/mariana fossil/187_Nelson Lake 930 NE930 Pos 152.jpg 3
+./database/mariana fossil/188_Nelson Lake 794 NE794 Pos 74.jpg 3
+./database/mariana fossil/189_Nelson Lake NE906 Pos 158.jpg 3
+./database/mariana fossil/18_Nelson Lake NE830 Pos 12.jpg 3
+./database/mariana fossil/190_Nelson Lake 930 NE930 Pos 130.jpg 3
+./database/mariana fossil/191_Nelson Lake NE1010 Pos 181.jpg 3
+./database/mariana fossil/192_Nelson Lake NE778 Pos 330.jpg 3
+./database/mariana fossil/193_Nelson Lake 930 NE930 Pos 230.jpg 3
+./database/mariana fossil/194_Nelson Lake NE830 Pos 139.jpg 3
+./database/mariana fossil/195_Nelson Lake NE778 Pos 172.jpg 3
+./database/mariana fossil/196_Nelson Lake 898 NE898 Pos 291.jpg 3
+./database/mariana fossil/197_Nelson Lake NE906 Pos 192.jpg 3
+./database/mariana fossil/198_Nelson Lake 898 NE898 Pos 111.jpg 3
+./database/mariana fossil/199_Nelson Lake NE 1010 Pos 16 cropped.jpg 3
+./database/mariana fossil/19_Nelson Lake 930 NE930 Pos 68.jpg 3
+./database/mariana fossil/1_Nelson Lake NE954 Pos 172.jpg 3
+./database/mariana fossil/200_Nelson Lake 930 NE930 Pos 265.jpg 3
+./database/mariana fossil/201_Nelson Lake NE778 Pos 286.jpg 3
+./database/mariana fossil/202_Nelson Lake 794 NE794 Pos 93.jpg 3
+./database/mariana fossil/203_Nelson Lake NE1010 Pos 87.jpg 3
+./database/mariana fossil/204_Nelson Lake 898 NE898 Pos 129.jpg 3
+./database/mariana fossil/205_Nelson Lake 898 NE898 Pos 170.jpg 3
+./database/mariana fossil/206_Nelson Lake NE906 Pos 193.jpg 3
+./database/mariana fossil/207_Nelson Lake 930 NE930 Pos 95.jpg 3
+./database/mariana fossil/208_Nelson Lake NE778 Pos 68.jpg 3
+./database/mariana fossil/209_Nelson Lake NE978 Pos 283 cropped.jpg 3
+./database/mariana fossil/20_Nelson Lake NE778 Pos 305.jpg 3
+./database/mariana fossil/210_Nelson Lake NE734 Pos 60.jpg 3
+./database/mariana fossil/211_Nelson Lake NE830 Pos 26 - Grain 2.jpg 3
+./database/mariana fossil/212_Nelson Lake NE906 Pos 106.jpg 3
+./database/mariana fossil/213_Nelson Lake NE734 Pos 85.jpg 3
+./database/mariana fossil/214_Nelson Lake NE830 Pos 166.jpg 3
+./database/mariana fossil/215_Nelson Lake 898 NE898 Pos 153.jpg 3
+./database/mariana fossil/216_Nelson Lake NE978 Pos 170 cropped.jpg 3
+./database/mariana fossil/217_Nelson Lake 898 NE898 Pos 86.jpg 3
+./database/mariana fossil/218_Nelson Lake 930 NE930 Pos 37.jpg 3
+./database/mariana fossil/219_Nelson Lake NE906 Pos 26.jpg 3
+./database/mariana fossil/21_Nelson Lake NE830 Pos 260.jpg 3
+./database/mariana fossil/220_Nelson Lake NE778 Pos 213.jpg 3
+./database/mariana fossil/221_Nelson Lake NE906 Pos 151.jpg 3
+./database/mariana fossil/222_Nelson Lake NE1010 Pos 64.jpg 3
+./database/mariana fossil/223_Nelson Lake 930 NE930 Pos 53.jpg 3
+./database/mariana fossil/224_Nelson Lake 794 NE794 Pos 159.jpg 3
+./database/mariana fossil/225_Nelson Lake NE830 Pos 219.jpg 3
+./database/mariana fossil/226_Nelson Lake NE734 Pos 6.jpg 3
+./database/mariana fossil/227_Nelson Lake NE778 Pos 138.jpg 3
+./database/mariana fossil/228_Nelson Lake NE778 Pos 82.jpg 3
+./database/mariana fossil/229_Nelson Lake 794 NE794 Pos 28.jpg 3
+./database/mariana fossil/22_Nelson Lake NE778 Pos 222.jpg 3
+./database/mariana fossil/230_Nelson Lake NE 1010 Pos 36 cropped.jpg 3
+./database/mariana fossil/231_Nelson Lake NE906 Pos 181.jpg 3
+./database/mariana fossil/232_Nelson Lake NE830 Pos 262.jpg 3
+./database/mariana fossil/233_Nelson Lake 898 NE898 Pos 24.jpg 3
+./database/mariana fossil/234_Nelson Lake 898 NE898 Pos 260.jpg 3
+./database/mariana fossil/235_Nelson Lake 794 NE794 Pos 96.jpg 3
+./database/mariana fossil/236_Nelson Lake 794 NE794 Pos 104.jpg 3
+./database/mariana fossil/237_Nelson Lake NE734 Pos 133.jpg 3
+./database/mariana fossil/238_Nelson Lake NE830 Pos 168.jpg 3
+./database/mariana fossil/239_Nelson Lake NE830 Pos 304.jpg 3
+./database/mariana fossil/23_Nelson Lake NE778 Pos 303.jpg 3
+./database/mariana fossil/240_Nelson Lake NE778 Pos 297.jpg 3
+./database/mariana fossil/241_Nelson Lake 898 NE898 Pos 146.jpg 3
+./database/mariana fossil/242_Nelson Lake NE830 Pos 113.jpg 3
+./database/mariana fossil/243_Nelson Lake 898 NE898 Pos 244.jpg 3
+./database/mariana fossil/244_Nelson Lake 898 NE898 Pos 272.jpg 3
+./database/mariana fossil/245_Nelson Lake 898 NE898 Pos 105.jpg 3
+./database/mariana fossil/246_Nelson Lake 898 NE898 Pos 274.jpg 3
+./database/mariana fossil/247_Nelson Lake 898 NE898 Pos 350.jpg 3
+./database/mariana fossil/248_Nelson Lake 930 NE930 Pos 108.jpg 3
+./database/mariana fossil/249_Nelson Lake NE 1010 Pos 45 cropped.jpg 3
+./database/mariana fossil/24_Nelson Lake NE778 Pos 131.jpg 3
+./database/mariana fossil/250_Nelson Lake NE 1010 Pos 37 cropped.jpg 3
+./database/mariana fossil/251_Nelson Lake 930 NE930 Pos 209.jpg 3
+./database/mariana fossil/252_Nelson Lake 930 NE930 Pos 277.jpg 3
+./database/mariana fossil/253_Nelson Lake NE954 Pos 24.jpg 3
+./database/mariana fossil/254_Nelson Lake NE830 Pos 275.jpg 3
+./database/mariana fossil/255_Nelson Lake NE778 Pos 338.jpg 3
+./database/mariana fossil/256_Nelson Lake 898 NE898 Pos 84.jpg 3
+./database/mariana fossil/257_Nelson Lake 930 NE930 Pos 19.jpg 3
+./database/mariana fossil/258_Nelson Lake 794 NE794 Pos 53.jpg 3
+./database/mariana fossil/259_Nelson Lake NE954 Pos 73.jpg 3
+./database/mariana fossil/25_Nelson Lake 898 NE898 Pos 195.jpg 3
+./database/mariana fossil/260_Nelson Lake NE830 Pos 28.jpg 3
+./database/mariana fossil/261_Nelson Lake NE778 Pos 34.jpg 3
+./database/mariana fossil/262_Nelson Lake NE 1010 Pos 35 cropped.jpg 3
+./database/mariana fossil/263_Nelson Lake 898 NE898 Pos 347.jpg 3
+./database/mariana fossil/264_Nelson Lake NE830 Pos 102.jpg 3
+./database/mariana fossil/265_Nelson Lake NE978 Pos 327 top cropped.jpg 3
+./database/mariana fossil/266_Nelson Lake 898 NE898 Pos 354.jpg 3
+./database/mariana fossil/267_Nelson Lake 930 NE930 Pos 36.jpg 3
+./database/mariana fossil/268_Nelson Lake NE1010 Pos 69.jpg 3
+./database/mariana fossil/269_Nelson Lake 794 NE794 Pos 52.jpg 3
+./database/mariana fossil/26_Nelson Lake NE778 Pos 220.jpg 3
+./database/mariana fossil/270_Nelson Lake NE830 Pos 230.jpg 3
+./database/mariana fossil/271_Nelson Lake NE1010 Pos 86.jpg 3
+./database/mariana fossil/272_Nelson Lake NE978 Pos 31 cropped.jpg 3
+./database/mariana fossil/273_Nelson Lake NE1010 Pos 76.jpg 3
+./database/mariana fossil/274_Nelson Lake NE778 Pos 89.jpg 3
+./database/mariana fossil/275_Nelson Lake 898 NE898 Pos 318.jpg 3
+./database/mariana fossil/276_Nelson Lake NE1010 Pos 177.jpg 3
+./database/mariana fossil/277_Nelson Lake 898 NE898 Pos 319.jpg 3
+./database/mariana fossil/278_Nelson Lake NE906 Pos 111.jpg 3
+./database/mariana fossil/279_Nelson Lake NE954 Pos 212.jpg 3
+./database/mariana fossil/27_Nelson Lake NE954 Pos 126.jpg 3
+./database/mariana fossil/280_Nelson Lake NE1010 Pos 165.jpg 3
+./database/mariana fossil/281_Nelson Lake NE830 Pos 248.jpg 3
+./database/mariana fossil/282_Nelson Lake NE 1010 Pos 19 cropped.jpg 3
+./database/mariana fossil/283_Nelson Lake NE778 Pos 270.jpg 3
+./database/mariana fossil/284_Nelson Lake NE906 Pos 41.jpg 3
+./database/mariana fossil/285_Nelson Lake NE778 Pos 58.jpg 3
+./database/mariana fossil/286_Nelson Lake NE1010 Pos 101.jpg 3
+./database/mariana fossil/287_Nelson Lake NE 1010 Pos 28 cropped.jpg 3
+./database/mariana fossil/288_Nelson Lake NE778 Pos 147.jpg 3
+./database/mariana fossil/289_Nelson Lake NE734 Pos 132.jpg 3
+./database/mariana fossil/28_Nelson Lake NE954 Pos 217.jpg 3
+./database/mariana fossil/290_Nelson Lake NE1010 Pos 166.jpg 3
+./database/mariana fossil/291_Nelson Lake NE778 Pos 354.jpg 3
+./database/mariana fossil/292_Nelson Lake NE830 Pos 67.jpg 3
+./database/mariana fossil/293_Nelson Lake NE734 Pos 22.jpg 3
+./database/mariana fossil/294_Nelson Lake NE734 Pos 56.jpg 3
+./database/mariana fossil/295_Nelson Lake 898 NE898 Pos 198.jpg 3
+./database/mariana fossil/296_Nelson Lake 794 NE794 Pos 126.jpg 3
+./database/mariana fossil/297_Nelson Lake 930 NE930 Pos 77.jpg 3
+./database/mariana fossil/298_Nelson Lake NE 1010 Pos 51 cropped.jpg 3
+./database/mariana fossil/299_Nelson Lake NE830 Pos 155.jpg 3
+./database/mariana fossil/29_Nelson Lake 930 NE930 Pos 38.jpg 3
+./database/mariana fossil/2_Nelson Lake NE778 Pos 171.jpg 3
+./database/mariana fossil/300_Nelson Lake NE978 Pos 265 cropped.jpg 3
+./database/mariana fossil/301_Nelson Lake NE978 Pos 198 Grain 2 cropped.jpg 3
+./database/mariana fossil/302_Nelson Lake NE778 Pos 154.jpg 3
+./database/mariana fossil/303_Nelson Lake 930 NE930 Pos 271.jpg 3
+./database/mariana fossil/304_Nelson Lake NE906 Pos 130.jpg 3
+./database/mariana fossil/305_Nelson Lake NE906 Pos 114.jpg 3
+./database/mariana fossil/306_Nelson Lake NE830 Pos 52.jpg 3
+./database/mariana fossil/307_Nelson Lake NE830 Pos 75.jpg 3
+./database/mariana fossil/308_Nelson Lake 898 NE898 Pos 145.jpg 3
+./database/mariana fossil/309_Nelson Lake NE830 Pos 229.jpg 3
+./database/mariana fossil/30_Nelson Lake 930 NE930 Pos 163.jpg 3
+./database/mariana fossil/310_Nelson Lake NE778 Pos 156.jpg 3
+./database/mariana fossil/311_Nelson Lake 930 NE930 Pos 197.jpg 3
+./database/mariana fossil/312_Nelson Lake 898 NE898 Pos 102.jpg 3
+./database/mariana fossil/313_Nelson Lake NE906 Pos 345.jpg 3
+./database/mariana fossil/314_Nelson Lake 898 NE898 Pos 359.jpg 3
+./database/mariana fossil/315_Nelson Lake 898 NE898 Pos 325.jpg 3
+./database/mariana fossil/316_Nelson Lake NE830 Pos 199.jpg 3
+./database/mariana fossil/317_Nelson Lake NE954 Pos 25.jpg 3
+./database/mariana fossil/318_Nelson Lake NE778 Pos 243.jpg 3
+./database/mariana fossil/319_Nelson Lake NE830 Pos 274.jpg 3
+./database/mariana fossil/31_Nelson Lake NE778 Pos 37.jpg 3
+./database/mariana fossil/320_Nelson Lake 898 NE898 Pos 305.jpg 3
+./database/mariana fossil/321_Nelson Lake NE978 Pos 264 cropped.jpg 3
+./database/mariana fossil/322_Nelson Lake NE778 Pos 313.jpg 3
+./database/mariana fossil/323_Nelson Lake NE830 Pos 225.jpg 3
+./database/mariana fossil/324_Nelson Lake 794 NE794 Pos 146.jpg 3
+./database/mariana fossil/325_Nelson Lake NE906 Pos 297.jpg 3
+./database/mariana fossil/326_Nelson Lake NE830 Pos 98.jpg 3
+./database/mariana fossil/327_Nelson Lake 898 NE898 Pos 190.jpg 3
+./database/mariana fossil/328_Nelson Lake NE778 Pos 26.jpg 3
+./database/mariana fossil/329_Nelson Lake NE 1010 Pos 52 cropped.jpg 3
+./database/mariana fossil/32_Nelson Lake NE830 Pos 132.jpg 3
+./database/mariana fossil/330_Nelson Lake NE778 Pos 318.jpg 3
+./database/mariana fossil/331_Nelson Lake NE1010 Pos 73.jpg 3
+./database/mariana fossil/332_Nelson Lake NE1010 Pos 97.jpg 3
+./database/mariana fossil/333_Nelson Lake 898 NE898 Pos 69.jpg 3
+./database/mariana fossil/334_Nelson Lake 930 NE930 Pos 286.jpg 3
+./database/mariana fossil/335_Nelson Lake 794 NE794 Pos 120.jpg 3
+./database/mariana fossil/336_Nelson Lake NE978 Pos 127 cropped.jpg 3
+./database/mariana fossil/337_Nelson Lake NE830 Pos 157.jpg 3
+./database/mariana fossil/338_Nelson Lake NE978 Pos 150 cropped.jpg 3
+./database/mariana fossil/339_Nelson Lake 898 NE898 Pos 32.jpg 3
+./database/mariana fossil/33_Nelson Lake NE734 Pos 118.jpg 3
+./database/mariana fossil/340_Nelson Lake NE954 Pos 94.jpg 3
+./database/mariana fossil/341_Nelson Lake NE906 Pos 206.jpg 3
+./database/mariana fossil/342_Nelson Lake NE778 Pos 45.jpg 3
+./database/mariana fossil/343_Nelson Lake NE778 Pos 109.jpg 3
+./database/mariana fossil/344_Nelson Lake 930 NE930 Pos 31.jpg 3
+./database/mariana fossil/345_Nelson Lake NE906 Pos 104.jpg 3
+./database/mariana fossil/346_Nelson Lake 930 NE930 Pos 221.jpg 3
+./database/mariana fossil/347_Nelson Lake 794 NE794 Pos 4.jpg 3
+./database/mariana fossil/348_Nelson Lake NE906 Pos 147.jpg 3
+./database/mariana fossil/349_Nelson Lake NE830 Pos 208.jpg 3
+./database/mariana fossil/34_Nelson Lake 930 NE930 Pos 138.jpg 3
+./database/mariana fossil/350_Nelson Lake NE830 Pos 296.jpg 3
+./database/mariana fossil/351_Nelson Lake NE830 Pos 140.jpg 3
+./database/mariana fossil/352_Nelson Lake NE734 Pos 121.jpg 3
+./database/mariana fossil/35_Nelson Lake NE978 Pos 262 cropped.jpg 3
+./database/mariana fossil/36_Nelson Lake 794 NE794 Pos 62.jpg 3
+./database/mariana fossil/37_Nelson Lake 898 NE898 Pos 135.jpg 3
+./database/mariana fossil/38_Nelson Lake 898 NE898 Pos 284.jpg 3
+./database/mariana fossil/39_Nelson Lake 898 NE898 Pos 349.jpg 3
+./database/mariana fossil/3_Nelson Lake NE954 Pos 125.jpg 3
+./database/mariana fossil/40_Nelson Lake NE778 Pos 96.jpg 3
+./database/mariana fossil/41_Nelson Lake NE778 Pos 398.jpg 3
+./database/mariana fossil/42_Nelson Lake 794 NE794 Pos 227.jpg 3
+./database/mariana fossil/43_Nelson Lake NE978 Pos 145 cropped.jpg 3
+./database/mariana fossil/44_Nelson Lake NE830 Pos 32.jpg 3
+./database/mariana fossil/45_Nelson Lake NE830 Pos 47.jpg 3
+./database/mariana fossil/46_Nelson Lake 794 NE794 Pos 34.jpg 3
+./database/mariana fossil/47_Nelson Lake NE954 Pos 157.jpg 3
+./database/mariana fossil/48_Nelson Lake NE978 Pos 19 cropped.jpg 3
+./database/mariana fossil/49_Nelson Lake NE978 Pos 327 bottom cropped.jpg 3
+./database/mariana fossil/4_Nelson Lake 930 NE930 Pos 18.jpg 3
+./database/mariana fossil/50_Nelson Lake NE954 Pos 144.jpg 3
+./database/mariana fossil/51_Nelson Lake NE906 Pos 195.jpg 3
+./database/mariana fossil/52_Nelson Lake NE778 Pos 236.jpg 3
+./database/mariana fossil/53_Nelson Lake 898 NE898 Pos 57.jpg 3
+./database/mariana fossil/54_Nelson Lake NE1010 Pos 71.jpg 3
+./database/mariana fossil/55_Nelson Lake 898 NE898 Pos 267.jpg 3
+./database/mariana fossil/56_Nelson Lake 794 NE794 Pos 141.jpg 3
+./database/mariana fossil/57_Nelson Lake NE978 Pos 201 cropped.jpg 3
+./database/mariana fossil/58_Nelson Lake NE 1010 Pos 30 cropped.jpg 3
+./database/mariana fossil/59_Nelson Lake NE 1010 Pos 22 cropped.jpg 3
+./database/mariana fossil/5_Nelson Lake NE778 Pos 334.jpg 3
+./database/mariana fossil/60_Nelson Lake NE 1010 Pos 6 cropped.jpg 3
+./database/mariana fossil/61_Nelson Lake NE778 Pos 158.jpg 3
+./database/mariana fossil/62_Nelson Lake NE830 Pos 150.jpg 3
+./database/mariana fossil/63_Nelson Lake 794 NE794 Pos 132.jpg 3
+./database/mariana fossil/64_Nelson Lake NE906 Pos 88.jpg 3
+./database/mariana fossil/65_Nelson Lake NE778 Pos 356.jpg 3
+./database/mariana fossil/66_Nelson Lake NE954 Pos 128.jpg 3
+./database/mariana fossil/67_Nelson Lake NE1010 Pos 163.jpg 3
+./database/mariana fossil/68_Nelson Lake NE778 Pos 132.jpg 3
+./database/mariana fossil/69_Nelson Lake 794 NE794 Pos 245.jpg 3
+./database/mariana fossil/6_Nelson Lake NE830 Pos 106.jpg 3
+./database/mariana fossil/70_Nelson Lake 898 NE898 Pos 53.jpg 3
+./database/mariana fossil/71_Nelson Lake NE830 Pos 172.jpg 3
+./database/mariana fossil/72_Nelson Lake NE 1010 Pos 58 cropped.jpg 3
+./database/mariana fossil/73_Nelson Lake NE954 Pos 45.jpg 3
+./database/mariana fossil/74_Nelson Lake 898 NE898 Pos 19.jpg 3
+./database/mariana fossil/75_Nelson Lake NE978 Pos 328 cropped.jpg 3
+./database/mariana fossil/76_Nelson Lake NE778 Pos 310.jpg 3
+./database/mariana fossil/77_Nelson Lake NE830 Pos 283.jpg 3
+./database/mariana fossil/78_Nelson Lake NE978 Pos 8 cropped.jpg 3
+./database/mariana fossil/79_Nelson Lake 930 NE930 Pos 70.jpg 3
+./database/mariana fossil/7_Nelson Lake 794 NE794 Pos 142.jpg 3
+./database/mariana fossil/80_Nelson Lake NE1010 Pos 96.jpg 3
+./database/mariana fossil/81_Nelson Lake NE778 Pos 157.jpg 3
+./database/mariana fossil/82_Nelson Lake NE906 Pos 141.jpg 3
+./database/mariana fossil/83_Nelson Lake NE906 Pos 326.jpg 3
+./database/mariana fossil/84_Nelson Lake 898 NE898 Pos 11.jpg 3
+./database/mariana fossil/85_Nelson Lake 898 NE898 Pos 68.jpg 3
+./database/mariana fossil/86_Nelson Lake NE1010 Pos 167.jpg 3
+./database/mariana fossil/87_Nelson Lake 794 NE794 Pos 277.jpg 3
+./database/mariana fossil/88_Nelson Lake NE778 Pos 257.jpg 3
+./database/mariana fossil/89_Nelson Lake NE1010 Pos 147.jpg 3
+./database/mariana fossil/8_Nelson Lake NE778 Pos 84.jpg 3
+./database/mariana fossil/90_Nelson Lake 898 NE898 Pos 47.jpg 3
+./database/mariana fossil/91_Nelson Lake 930 NE930 Pos 170.jpg 3
+./database/mariana fossil/92_Nelson Lake NE954 Pos 58.jpg 3
+./database/mariana fossil/93_Nelson Lake NE830 Pos 224.jpg 3
+./database/mariana fossil/94_Nelson Lake NE778 Pos 166.jpg 3
+./database/mariana fossil/95_Nelson Lake NE954 Pos 7.jpg 3
+./database/mariana fossil/96_Nelson Lake 898 NE898 Pos 122.jpg 3
+./database/mariana fossil/97_Nelson Lake NE830 Pos 81.jpg 3
+./database/mariana fossil/98_Nelson Lake NE830 Pos 41.jpg 3
+./database/mariana fossil/99_Nelson Lake NE778 Pos 369.jpg 3
+./database/mariana fossil/9_Nelson Lake NE1010 Pos 168.jpg 3
