@@ -34,9 +34,9 @@ Here stores the fossil pollen data that have not been released yet [google drive
 
 Here are some useful comments.
 
-1. Folder ``part1_trainval'' contains all the scripts for training, evaluating and visualizing the dictionary.
-2. Folder ``figures'' contains the figures used in the paper and others of interest.
-3. Folder ``part2_test'' contains the scripts for testing, running the model on a holdout testing set without annotation. This test set can be downloaded in google [google drive](https://drive.google.com/drive/folders/0B6uW-Khc9uCDTGk0MUFSekJscWM?usp=sharing) (permission required). The scripts are cleaner than those in ``part1_trainval''.
+1. Folder "part1_trainval" contains all the scripts for training, evaluating and visualizing the dictionary.
+2. Folder "figures" contains the figures used in the paper and others of interest.
+3. Folder "part2_test" contains the scripts for testing, running the model on a holdout testing set without annotation. This test set can be downloaded in [google drive](https://drive.google.com/drive/folders/0B6uW-Khc9uCDTGk0MUFSekJscWM?usp=sharing) (permission required). The scripts are cleaner than those in ``part1_trainval''.
 4. The two demo directories contains useful scripts for visualization.
 
 
