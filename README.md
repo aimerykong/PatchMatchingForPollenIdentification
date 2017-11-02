@@ -5,7 +5,7 @@
 ![](https://github.com/aimerykong/PatchMatchingForPollenIdentification/blob/master/figures/example_demo.png)
 
 
-![](https://github.com/aimerykong/PatchMatchingForPollenIdentification/blob/master/figures/patchMatchDemo.png)
+![](https://github.com/aimerykong/PatchMatchingForPollenIdentification/blob/master/figures/patchMatch_demo.png)
 
   critchfieldii             |     glauca          |     mariana
 :-------------------------:|:-------------------------:|:-------------------------:  
@@ -31,6 +31,8 @@ The dataset is large; to download the dataset,
 please go [google drive](https://drive.google.com/folderview?id=0BxeylfSgpk1Mdk1HeVhaaEdxMEk&usp=sharing).
 To run the demos, please put the downloaded folder under proper directory (refer to addpath in the script).
 Note that the fossilized pollen grains are not released for now. Please stay tuned.
+
+Here stores the fossil pollen data that have not been released yet [google drive](https://drive.google.com/drive/folders/0B6uW-Khc9uCDTGk0MUFSekJscWM?usp=sharing)
 
 
 For questions, please contact
