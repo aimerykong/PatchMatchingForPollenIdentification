@@ -2,6 +2,18 @@
 
 [project page](http://www.ics.uci.edu/~skong2/recurrentDepthSeg)
 
+![](https://github.com/aimerykong/PatchMatchingForPollenIdentification/blob/master/figures/example_demo.png)
+
+
+![](https://github.com/aimerykong/PatchMatchingForPollenIdentification/blob/master/figures/patchMatchDemo.png)
+
+  critchfieldii             |     glauca          |     mariana
+:-------------------------:|:-------------------------:|:-------------------------:  
+![](https://github.com/aimerykong/PatchMatchingForPollenIdentification/blob/master/figures/patches_critchfieldii_K300L0.1_D0.1_E200_B2_globalContrastNorm.png)  |  ![](https://github.com/aimerykong/PatchMatchingForPollenIdentification/blob/master/figures/patches_glauca_K300L0.1_D0.1_E200_B2_globalContrastNorm.png)   |  ![](https://github.com/aimerykong/PatchMatchingForPollenIdentification/blob/master/figures/patches_mariana_K300L0.1_D0.1_E200_B2_globalContrastNorm.png)
+
+
+
+
 This folder contains demo codes for generating exemplar patch candidates in training dictionary, 
 how to do viewpoint aligment, and the whole classification pipeline for our project with the following published paper.
  
