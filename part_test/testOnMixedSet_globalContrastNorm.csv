@@ -1,0 +1,429 @@
+fileName,predLabelIdx,predLabel
+Anderson 10a Pos 30-0001 cropxyz,2,glauca
+Anderson 10a pos10-0003 cropxyz,3,mariana
+Anderson 10a pos12-0004 cropxyz,3,mariana
+Anderson 10a pos13-0005 cropxyz,3,mariana
+Anderson 10a pos25-0001 cropxyz,3,mariana
+Anderson 10a pos29-0002 cropxyz,3,mariana
+Anderson 10a pos31-0003 cropxyz,3,mariana
+Anderson 10a pos32-0004 cropxyz,3,mariana
+Anderson 10a pos33-0002 cropxyz,3,mariana
+Anderson 10a pos42-0004 cropxyz,3,mariana
+Anderson 10a pos43-0005 cropxyz,3,mariana
+Anderson 10a pos5-0003 cropxyz,3,mariana
+Anderson 10a pos6-0006 cropxyz,3,mariana
+Anderson 10a pos9-0001 cropxyz,2,glauca
+Anderson 10b Pos 10-0011 cropxyz,3,mariana
+Anderson 10b Pos 12-0012 cropxyz,2,glauca
+Anderson 10b Pos 2-0004 cropxyz,3,mariana
+Anderson 10b Pos 3-0005 cropxyz,3,mariana
+Anderson 10b Pos 4-0006 cropxyz,3,mariana
+Anderson 10b Pos 5-0007 cropxyz,3,mariana
+Anderson 10b Pos 6-0008 cropxyz,3,mariana
+Anderson 10b Pos 8-0009 cropxyz,2,glauca
+Anderson 10b Pos 9-0010 cropxyz,3,mariana
+Anderson 11b Pos 1-0009 cropxyz,3,mariana
+Anderson 11b Pos 2-0010 cropxyz,2,glauca
+Anderson 12b Pos 1-0005 cropxyz,3,mariana
+Anderson 12b Pos 2-0010 cropxyz,3,mariana
+Anderson 12b Pos 3-0011 cropxyz,3,mariana
+Anderson 12c Pos 1-0012 cropxyz,3,mariana
+Anderson 12c Pos 2-0014 cropxyz,3,mariana
+Anderson 12e Pos 16-0016 cropxyz,3,mariana
+Anderson 12e Pos 18-0017 cropxyz,3,mariana
+Anderson 12e Pos 2-0015 cropxyz,3,mariana
+Anderson 12f Pos 4-0018 cropxyz,3,mariana
+Anderson 12f Pos 5-0019 cropxyz,1,critchfieldii
+Anderson 12g Pos 3-0020 cropxyz,3,mariana
+Anderson 1a Pos 1-0002 cropxyz,3,mariana
+Anderson 1a Pos 10-0008 cropxyz,1,critchfieldii
+Anderson 1a Pos 11-0003 cropxyz,1,critchfieldii
+Anderson 1a Pos 13-0002 cropxyz,3,mariana
+Anderson 1a Pos 14-0003 cropxyz,1,critchfieldii
+Anderson 1a Pos 18-0004 cropxyz,1,critchfieldii
+Anderson 1a Pos 22-0005 cropxyz,2,glauca
+Anderson 1a Pos 23-0007 cropxyz,2,glauca
+Anderson 1a Pos 25-0008 cropxyz,1,critchfieldii
+Anderson 1a Pos 26-0009 cropxyz,3,mariana
+Anderson 1a Pos 27-0001 cropxyz,2,glauca
+Anderson 1a Pos 28-0002 cropxyz,1,critchfieldii
+Anderson 1a Pos 32-0004 cropxyz,1,critchfieldii
+Anderson 1a Pos 33-0005 cropxyz,2,glauca
+Anderson 1a Pos 4-0003 cropxyz,1,critchfieldii
+Anderson 1a Pos 41-0007 cropxyz,2,glauca
+Anderson 1a Pos 46-0008 cropxyz,2,glauca
+Anderson 1a Pos 47-0009 cropxyz,3,mariana
+Anderson 1a Pos 48-0011 cropxyz,2,glauca
+Anderson 1a Pos 7-0005 cropxyz,1,critchfieldii
+Anderson 1a Pos 8-0006 cropxyz,1,critchfieldii
+Anderson 1a Pos 9-0007 cropxyz,2,glauca
+Anderson 2a Pos 105-0012 cropxyz,2,glauca
+Anderson 2a Pos 11-0001 cropxyz,3,mariana
+Anderson 2a Pos 12-0002 cropxyz,2,glauca
+Anderson 2a Pos 13-0005 cropxyz,3,mariana
+Anderson 2a Pos 134-0013 cropxyz,3,mariana
+Anderson 2a Pos 14-0006 cropxyz,1,critchfieldii
+Anderson 2a Pos 15-0007 cropxyz,2,glauca
+Anderson 2a Pos 155-0014 cropxyz,3,mariana
+Anderson 2a Pos 180-0015 cropxyz,1,critchfieldii
+Anderson 2a Pos 189-0016 cropxyz,2,glauca
+Anderson 2a Pos 2-0012 cropxyz,2,glauca
+Anderson 2a Pos 256-0017 cropxyz,1,critchfieldii
+Anderson 2a Pos 259-0018 cropxyz,2,glauca
+Anderson 2a Pos 277-0019 cropxyz,3,mariana
+Anderson 2a Pos 280-0020 cropxyz,2,glauca
+Anderson 2a Pos 29-0008 cropxyz,1,critchfieldii
+Anderson 2a Pos 292-0022 cropxyz,2,glauca
+Anderson 2a Pos 296-0024 cropxyz,2,glauca
+Anderson 2a Pos 30-0009 cropxyz,1,critchfieldii
+Anderson 2a Pos 305-0025 cropxyz,2,glauca
+Anderson 2a Pos 306-0026 cropxyz,2,glauca
+Anderson 2a Pos 31-0010 cropxyz,1,critchfieldii
+Anderson 2a Pos 36-0011 cropxyz,2,glauca
+Anderson 3a Pos 1-0027 cropxyz,2,glauca
+Anderson 3a Pos 12-0030 cropxyz,1,critchfieldii
+Anderson 3a Pos 20-0031 cropxyz,1,critchfieldii
+Anderson 3a Pos 3-0028 cropxyz,3,mariana
+Anderson 3a Pos 31-0032 cropxyz,2,glauca
+Anderson 3a Pos 35-0033 cropxyz,3,mariana
+Anderson 3a Pos 36-0034 cropxyz,3,mariana
+Anderson 3a Pos 40-0002 cropxyz,3,mariana
+Anderson 3a Pos 47-0003 cropxyz,1,critchfieldii
+Anderson 3a Pos 49-0004 cropxyz,3,mariana
+Anderson 3a Pos 52-0005 cropxyz,3,mariana
+Anderson 3a Pos 53-0006 cropxyz,3,mariana
+Anderson 3a Pos 6-0029 cropxyz,2,glauca
+Anderson 3a Pos 67-0007 cropxyz,3,mariana
+Anderson 3a Pos 68-0001 cropxyz,3,mariana
+Anderson 3a Pos 71-0004 cropxyz,3,mariana
+Anderson 3a Pos 77-0006 cropxyz,3,mariana
+Anderson 3a Pos 78-0007 cropxyz,3,mariana
+Anderson 3a Pos 81-0008 cropxyz,3,mariana
+Anderson 3a Pos 83-0009 cropxyz,2,glauca
+Anderson 3a Pos 85-0010 cropxyz,2,glauca
+Anderson 3a Pos 91-0011 cropxyz,2,glauca
+Anderson 4a Pos 101-0004 cropxyz,1,critchfieldii
+Anderson 4a Pos 115-0005 cropxyz,3,mariana
+Anderson 4a Pos 13-0013 cropxyz,2,glauca
+Anderson 4a Pos 203-0006 cropxyz,2,glauca
+Anderson 4a Pos 25-0014 cropxyz,2,glauca
+Anderson 4a Pos 65-0015 cropxyz,3,mariana
+Anderson 4a Pos 8-0012 cropxyz,3,mariana
+Anderson 4a Pos 91-0016 cropxyz,3,mariana
+Anderson 4a Pos 98-0003 cropxyz,1,critchfieldii
+Anderson 4b Pos 1-0001-2 cropxyz,3,mariana
+Anderson 4b Pos 10-0002 cropxyz,1,critchfieldii
+Anderson 4b Pos 11-0003 cropxyz,3,mariana
+Anderson 4b Pos 12-0004 cropxyz,1,critchfieldii
+Anderson 4b Pos 13-0006 cropxyz,3,mariana
+Anderson 4b Pos 14-0007 cropxyz,3,mariana
+Anderson 4b Pos 2-0002 cropxyz,1,critchfieldii
+Anderson 4b Pos 3-0003 cropxyz,2,glauca
+Anderson 4b Pos 4-0004 cropxyz,3,mariana
+Anderson 4b Pos 5-0002 cropxyz,1,critchfieldii
+Anderson 4b Pos 6-0003 cropxyz,3,mariana
+Anderson 4b Pos 7-0004 cropxyz,1,critchfieldii
+Anderson 4b Pos 8-0001 cropxyz,3,mariana
+Anderson 5a Pos 133-0011 cropxyz,3,mariana
+Anderson 5a Pos 146-0012 cropxyz,1,critchfieldii
+Anderson 5a Pos 149-0013 cropxyz,1,critchfieldii
+Anderson 5a Pos 179-0014 cropxyz,3,mariana
+Anderson 5a Pos 205-0015 cropxyz,3,mariana
+Anderson 5a Pos 210-0016 cropxyz,3,mariana
+Anderson 5a Pos 213-0017 cropxyz,3,mariana
+Anderson 5a Pos 214-0004 cropxyz,3,mariana
+Anderson 5a Pos 215-0018 cropxyz,3,mariana
+Anderson 5a Pos 219-0019 cropxyz,2,glauca
+Anderson 5a Pos 222 0003 cropxyz,2,glauca
+Anderson 5a Pos 253-0006 cropxyz,2,glauca
+Anderson 5a Pos 257-0007 cropxyz,2,glauca
+Anderson 5a Pos 307-0002 cropxyz,2,glauca
+Anderson 5a Pos 328-0003 cropxyz,3,mariana
+Anderson 5a Pos 364-0006 cropxyz,1,critchfieldii
+Anderson 5a Pos 37-0007 cropxyz,1,critchfieldii
+Anderson 5a Pos 373-0008 cropxyz,3,mariana
+Anderson 5a Pos 382-0010 cropxyz,2,glauca
+Anderson 5a Pos 425-0008 cropxyz,3,mariana
+Anderson 5a Pos 57-0008 cropxyz,3,mariana
+Anderson 5a Pos 73 -0009 cropzyx,3,mariana
+Anderson 5a Pos 80-0010 cropxyz,1,critchfieldii
+Anderson 6a Pos 103-0009 cropxyz,3,mariana
+Anderson 6a Pos 112-0010 cropxyz,3,mariana
+Anderson 6a Pos 162-0011 cropxyz,3,mariana
+Anderson 6a Pos 166-0012 cropxyz,3,mariana
+Anderson 6a Pos 176-0013 cropxyz,2,glauca
+Anderson 6a Pos 205-0014 cropxyz,3,mariana
+Anderson 6a Pos 21-0002 cropxyz,2,glauca
+Anderson 6a Pos 210-0015 cropxyz,3,mariana
+Anderson 6a Pos 215-0016 cropxyz,3,mariana
+Anderson 6a Pos 220-0017 cropxyz,2,glauca
+Anderson 6a Pos 227-0018 cropxyz,3,mariana
+Anderson 6a Pos 237-0019 cropxyz,3,mariana
+Anderson 6a Pos 242-0020 cropxyz,3,mariana
+Anderson 6a Pos 247-0021 cropxyz,2,glauca
+Anderson 6a Pos 257-0022 cropxyz,3,mariana
+Anderson 6a Pos 261-0023 cropxyz,3,mariana
+Anderson 6a Pos 278-0024 cropxyz,3,mariana
+Anderson 6a Pos 28-0002 cropxyz,3,mariana
+Anderson 6a Pos 280-0025 cropxyz,3,mariana
+Anderson 6a Pos 39-0003 cropxyz,3,mariana
+Anderson 6a Pos 59-0006 cropxyz,3,mariana
+Anderson 6a Pos 71-0008 cropxyz,3,mariana
+Anderson 7a Pos 100-0007 cropxyz,2,glauca
+Anderson 7a Pos 183-0008 cropxyz,3,mariana
+Anderson 7a Pos 259-0009 cropzyx,3,mariana
+Anderson 7a Pos 262-0010 cropxyz,1,critchfieldii
+Anderson 7a Pos 276-0011 cropxyz,3,mariana
+Anderson 7a Pos 36-0002 cropxyz,2,glauca
+Anderson 7a Pos 39-0003 cropxyz,2,glauca
+Anderson 7a Pos 4-0001 cropxyz,3,mariana
+Anderson 7a Pos 43-0004 cropxyz,3,mariana
+Anderson 7a Pos 446-0012 cropxyz,2,glauca
+Anderson 7a Pos 448-0013 cropxyz,2,glauca
+Anderson 7a Pos 461-0014 cropxyz,3,mariana
+Anderson 7a Pos 466-0015 cropxyz,3,mariana
+Anderson 7a Pos 524-0016 cropxyz,2,glauca
+Anderson 7a Pos 529-0017 cropxyz,1,critchfieldii
+Anderson 7a Pos 64-0005 cropxyz,3,mariana
+Anderson 7a Pos 96-0006 cropxyz,1,critchfieldii
+Anderson 7b Pos 1-0002 cropxyz,2,glauca
+Anderson 7b Pos 2-0003 cropxyz,3,mariana
+Anderson 7b Pos 3-0004 cropxyz,1,critchfieldii
+Anderson 7b Pos 4-0005 cropxyz,2,glauca
+Anderson 7b Pos 5-0006 cropxyz,3,mariana
+Anderson 8a Pos 157-0004 cropxyz,3,mariana
+Anderson 8a Pos 159-0005 cropxyz,2,glauca
+Anderson 8a Pos 167-0001 cropxyz,2,glauca
+Anderson 8a Pos 172-0002 cropxyz,3,mariana
+Anderson 8a Pos 192-0003 cropxyz,3,mariana
+Anderson 8a Pos 217-0005 cropxyz,3,mariana
+Anderson 8a Pos 230-0006 cropxyz,3,mariana
+Anderson 8a Pos 288-0008 cropxyz,3,mariana
+Anderson 8a Pos 302-0009 cropxyz,3,mariana
+Anderson 8a Pos 303-0010 cropxyz,1,critchfieldii
+Anderson 8a Pos 304-0011 cropxyz,2,glauca
+Anderson 8a Pos 306-0012 cropxyz,2,glauca
+Anderson 8a Pos 307-0013 cropxyz,3,mariana
+Anderson 8a Pos 322-0015 cropxyz,3,mariana
+Anderson 8a Pos 343-0016 cropxyz,2,glauca
+Anderson 8a Pos 365-0017 cropxyz,3,mariana
+Anderson 8a Pos 383-0019 cropxyz,1,critchfieldii
+Anderson 8a Pos 402-0020 cropxyz,1,critchfieldii
+Anderson 8a Pos 403-0021 cropxyz,3,mariana
+Anderson 8a Pos 41-0001 cropxyz,2,glauca
+Anderson 8a Pos 85-0003 cropxyz,3,mariana
+Anderson 9a Pos 262-0002 cropxyz,3,mariana
+Anderson 9a Pos 267-0003 cropxyz,3,mariana
+Anderson 9a Pos 269-0004 cropxyz,3,mariana
+Anderson 9a Pos 270-0005 cropxyz,3,mariana
+Anderson 9a Pos 277-0006 cropxyz,3,mariana
+Anderson 9a Pos 279-0007 cropxyz,3,mariana
+Anderson 9a Pos 70-0001 cropxyz,2,glauca
+Anderson 9b Pos 13-0009 cropxyz,3,mariana
+Anderson 9b Pos 15-0010 cropxyz,2,glauca
+Anderson 9b Pos 18-0011 cropxyz,3,mariana
+Anderson 9b Pos 19-0012 cropxyz,3,mariana
+Anderson 9b Pos 20-0013 cropxyz,3,mariana
+Anderson 9b Pos 22-0014 cropxyz,3,mariana
+Anderson 9b Pos 23-0016 cropxyz,3,mariana
+Anderson 9b Pos 27-0017 cropxyz,2,glauca
+Anderson 9b Pos 28-0018 cropxyz,3,mariana
+Anderson 9b Pos 31-0019 cropxyz,3,mariana
+Anderson 9b Pos 34-0001 cropxyz,3,mariana
+Anderson 9b Pos 35-0002 cropxyz,3,mariana
+Anderson 9b Pos 36-0003 cropxyz,2,glauca
+Anderson 9b Pos 5-0008 cropxyz,2,glauca
+Anderson 9c Pos 1-0003 cropxyz,2,glauca
+Anderson11a po10-0005 cropxyz,3,mariana
+Anderson11a pos18-0007 cropxyz,3,mariana
+Anderson11a pos22-0008 cropxyz,3,mariana
+Anderson11a pos23-0009 cropxyz,3,mariana
+Anderson11a pos26-0010 cropxyz,3,mariana
+Anderson11a pos30-0011 cropxyz,1,critchfieldii
+Anderson11a pos31-0012 cropxyz,3,mariana
+Anderson11a pos34-0022 cropxyz,3,mariana
+Anderson11a pos38-0013 cropxyz,3,mariana
+Anderson11a pos41-0014 cropxyz,3,mariana
+Anderson11a pos45-0015 cropxyz,3,mariana
+Anderson11a pos46-0016 cropxyz,3,mariana
+Anderson11a pos47-0017 cropxyz,3,mariana
+Anderson11a pos49-0018 cropxyz,3,mariana
+Anderson11a pos5-0003 cropxyz,3,mariana
+Anderson11a pos50-0019 cropxyz,3,mariana
+Anderson11a pos51-0020 cropxyz,1,critchfieldii
+Anderson11a pos7-0005 cropxyz,3,mariana
+Anderson11a pos8-0006 cropxyz,3,mariana
+Anderson12a Pos 10-0009 cropxyz,3,mariana
+Anderson12a Pos 3-0005 cropxyz,3,mariana
+Anderson12a Pos 8-0011 cropxyz,3,mariana
+Cupola 1a Pos 1-0001 cropxyz,2,glauca
+Cupola 1a Pos 10-0010 cropxyz,1,critchfieldii
+Cupola 1a Pos 11-0011 cropxyz,2,glauca
+Cupola 1a Pos 2-0002 cropxyz,2,glauca
+Cupola 1a Pos 3-0003 cropxyz,2,glauca
+Cupola 1a Pos 4-0004 cropxyz,3,mariana
+Cupola 1a Pos 5-0005 cropxyz,3,mariana
+Cupola 1a Pos 6-0006 cropxyz,2,glauca
+Cupola 1a Pos 7-0007 cropxyz,2,glauca
+Cupola 1a Pos 8-0008 cropxyz,1,critchfieldii
+Cupola 1a Pos 9-0009 cropxyz,1,critchfieldii
+Cupola 1b Pos 1-0012 cropxyz,1,critchfieldii
+Cupola 1b Pos 10-0006 cropxyz,3,mariana
+Cupola 1b Pos 11-0007 cropxyz,3,mariana
+Cupola 1b Pos 12-0008 cropxyz,3,mariana
+Cupola 1b Pos 2-0014 cropxyz,3,mariana
+Cupola 1b Pos 3-0015 cropxyz,2,glauca
+Cupola 1b Pos 4-0016 cropxyz,1,critchfieldii
+Cupola 1b Pos 5-0017 cropxyz,3,mariana
+Cupola 1b Pos 6-0001 cropxyz,1,critchfieldii
+Cupola 1b Pos 7-0002 cropxyz,1,critchfieldii
+Cupola 1b Pos 8-0003 cropxyz,1,critchfieldii
+Cupola 1b Pos 9-0005 cropxyz,1,critchfieldii
+Cupola 2a Pos 1-0011 cropxyz,2,glauca
+Cupola 2a Pos 2-0012 cropxyz,1,critchfieldii
+Cupola 2a Pos 3-0014 cropxyz,1,critchfieldii
+Cupola 2a Pos 4-0015 cropxyz,3,mariana
+Cupola 2a Pos 5-0016 cropxyz,1,critchfieldii
+Cupola 2a Pos 6-0017 cropxyz,1,critchfieldii
+Cupola 2b Pos 1-0018 cropxyz,1,critchfieldii
+Cupola 2b Pos 10-0003 cropxyz,1,critchfieldii
+Cupola 2b Pos 11-0005 cropxyz,1,critchfieldii
+Cupola 2b Pos 2-0019 cropxyz,1,critchfieldii
+Cupola 2b Pos 3-0020 cropxyz,1,critchfieldii
+Cupola 2b Pos 4-0021 cropxyz,3,mariana
+Cupola 2b Pos 6-0024 cropxyz,3,mariana
+Cupola 2b Pos 8-0001 cropxyz,3,mariana
+Cupola 2c Pos 2-0007 cropxyz,3,mariana
+Cupola 2c Pos 3-0001copyxyz,3,mariana
+Cupola 2c Pos 4-0002 copyxyz,3,mariana
+Cupola 2c Pos 5-0003 cropxyz,2,glauca
+Cupola 3a Pos 1-0002 cropxyz,3,mariana
+Cupola 3a Pos 10-0011 cropxyz,2,glauca
+Cupola 3a Pos 11-0012 cropxyz,2,glauca
+Cupola 3a Pos 12-0013 cropxyz,3,mariana
+Cupola 3a Pos 13-0014 cropxyz,1,critchfieldii
+Cupola 3a Pos 14-0015 cropxyz,3,mariana
+Cupola 3a Pos 16-0002 cropxyz,3,mariana
+Cupola 3a Pos 17-0003 cropxyz,1,critchfieldii
+Cupola 3a Pos 18-0004 cropxyz,3,mariana
+Cupola 3a Pos 19-0005 cropxyz,1,critchfieldii
+Cupola 3a Pos 2-0003 cropxyz,3,mariana
+Cupola 3a Pos 20-0006 cropxyz,2,glauca
+Cupola 3a Pos 22-0008 cropxyz,1,critchfieldii
+Cupola 3a Pos 23-0009 cropxyz,1,critchfieldii
+Cupola 3a Pos 3-0004 cropxyz,3,mariana
+Cupola 3a Pos 4-0005 cropxyz,3,mariana
+Cupola 3a Pos 5-0006 cropxyz,1,critchfieldii
+Cupola 3a Pos 6-0007 cropxyz,3,mariana
+Cupola 3a Pos 7-0008 cropxyz,3,mariana
+Cupola 3a Pos 8-0009 cropxyz,2,glauca
+Cupola 3a Pos 9-0010 cropxyz,1,critchfieldii
+Cupola 4a Pos 12-0013 cropxyz,1,critchfieldii
+Cupola 4a Pos 16-0014 cropxyz,1,critchfieldii
+Cupola 4a Pos 2-0010 cropxyz,1,critchfieldii
+Cupola 4a Pos 22-0015 cropxyz,2,glauca
+Cupola 4a Pos 26-0016 cropxyz,3,mariana
+Cupola 4a Pos 28-0017 cropxyz,1,critchfieldii
+Cupola 4a Pos 29-0018 cropxyz,1,critchfieldii
+Cupola 4a Pos 31-0019 cropxyz,1,critchfieldii
+Cupola 4a Pos 32-0020 cropxyz,1,critchfieldii
+Cupola 4a Pos 33-0021 cropxyz,2,glauca
+Cupola 4a Pos 35-0022 cropxyz,1,critchfieldii
+Cupola 4a Pos 36-0023 cropxyz,3,mariana
+Cupola 4a Pos 37-0024 cropxyz,1,critchfieldii
+Cupola 4a Pos 38-0025 cropxyz,1,critchfieldii
+Cupola 4a Pos 39-0026 cropxyz,3,mariana
+Cupola 4a Pos 40-0027 cropxyz,1,critchfieldii
+Cupola 4a Pos 42-0028 cropxyz,2,glauca
+Cupola 4a Pos 43-0029 cropxyz,1,critchfieldii
+Cupola 4a Pos 5-0011 cropxyz,3,mariana
+Cupola 4a Pos 50-0030 cropxyz,2,glauca
+Cupola 4a Pos 6-0012 cropxyz,1,critchfieldii
+Cupola 5a Pos 1-0001xyz,1,critchfieldii
+Cupola 5a Pos 10-0008xyz,2,glauca
+Cupola 5a Pos 11-0009xyz,3,mariana
+Cupola 5a Pos 14-0010xyz,2,glauca
+Cupola 5a Pos 15-0011xyz,1,critchfieldii
+Cupola 5a Pos 17-0012xyz,1,critchfieldii
+Cupola 5a Pos 18-0002xyz,1,critchfieldii
+Cupola 5a Pos 19-0004xyz,2,glauca
+Cupola 5a Pos 22-0005xyz,1,critchfieldii
+Cupola 5a Pos 23-0006xyz,3,mariana
+Cupola 5a Pos 24-0007xyz,3,mariana
+Cupola 5a Pos 25-0008xyz,1,critchfieldii
+Cupola 5a Pos 26-0009xyz,1,critchfieldii
+Cupola 5a Pos 28-0010xyz,1,critchfieldii
+Cupola 5a Pos 29-0011xyz,3,mariana
+Cupola 5a Pos 30-0012xyz,1,critchfieldii
+Cupola 5a Pos 31-0013xyz,1,critchfieldii
+Cupola 5a Pos 4-0002xyz,3,mariana
+Cupola 5a Pos 6-0003xyz,2,glauca
+Cupola 5a Pos 7-0004xyz,3,mariana
+Cupola 5a Pos 8-0005xyz,2,glauca
+Cupola 5a Pos 9-0007xyz,2,glauca
+Cupola 6a Pos 1-0015 cropxyz,3,mariana
+Cupola 6a Pos 11-0022 cropxyz,1,critchfieldii
+Cupola 6a Pos 12-0024 cropxyz,1,critchfieldii
+Cupola 6a Pos 13-0025 cropxyz,3,mariana
+Cupola 6a Pos 14-0001 cropxyz,3,mariana
+Cupola 6a Pos 16-0002 cropxyz,3,mariana
+Cupola 6a Pos 18-0003 cropxyz,1,critchfieldii
+Cupola 6a Pos 19-0004 cropxyz,2,glauca
+Cupola 6a Pos 2-0016 cropxyz,1,critchfieldii
+Cupola 6a Pos 20-0005 cropxyz,2,glauca
+Cupola 6a Pos 21-0006 cropxyz,2,glauca
+Cupola 6a Pos 22-0008 cropxyz,3,mariana
+Cupola 6a Pos 23-0009 cropxyz,1,critchfieldii
+Cupola 6a Pos 26-0010 cropxyz,3,mariana
+Cupola 6a Pos 27-0011 cropxyz,2,glauca
+Cupola 6a Pos 28-0004 cropxyz,2,glauca
+Cupola 6a Pos 29-0005 cropxyz,2,glauca
+Cupola 6a Pos 3-0017 cropxyz,3,mariana
+Cupola 6a Pos 30-0006 cropxyz,2,glauca
+Cupola 6a Pos 5-0018 cropxyz,3,mariana
+Cupola 6a Pos 6-0019 cropxyz,1,critchfieldii
+Cupola 6a Pos 7-0021 cropxyz,2,glauca
+Cupola 7a Pos 1-0001 cropxyz,3,mariana
+Cupola 7a Pos 13-0005 cropxyz,3,mariana
+Cupola 7a Pos 14-0006 cropxyz,2,glauca
+Cupola 7a Pos 19-0007 cropxyz,1,critchfieldii
+Cupola 7a Pos 2-0001 cropxyz,2,glauca
+Cupola 7a Pos 20-0008 cropxyz,3,mariana
+Cupola 7a Pos 21-0009 cropxyz,1,critchfieldii
+Cupola 7a Pos 22-0010 cropxyz,1,critchfieldii
+Cupola 7a Pos 23-0007 cropxyz,1,critchfieldii
+Cupola 7a Pos 24-0008 cropxyz,3,mariana
+Cupola 7a Pos 25-0009 cropxyz,3,mariana
+Cupola 7a Pos 28-0010 cropxyz,3,mariana
+Cupola 7a Pos 3-0001 cropxyz,1,critchfieldii
+Cupola 7a Pos 32-0011 cropxyz,3,mariana
+Cupola 7a Pos 34-0012 cropxyz,1,critchfieldii
+Cupola 7a Pos 36-0001 cropxyz,3,mariana
+Cupola 7a Pos 37-0002 cropxyz,3,mariana
+Cupola 7a Pos 38-0003 cropxyz,3,mariana
+Cupola 7a Pos 39-0004 cropxyz,3,mariana
+Cupola 7a Pos 4-0002 cropxyz,3,mariana
+Cupola 7a Pos 7-0003 cropxyz,3,mariana
+Cupola 7a Pos 9-0004 cropxyz,1,critchfieldii
+Cupola 8a Pos 1-0005 cropxyz,3,mariana
+Cupola 8a Pos 10-0006 cropxyz,1,critchfieldii
+Cupola 8a Pos 11-0007 cropxyz,1,critchfieldii
+Cupola 8a Pos 12-0002 cropxyz,3,mariana
+Cupola 8a Pos 13-0003 cropxyz,1,critchfieldii
+Cupola 8a Pos 15-0004 cropxyz,3,mariana
+Cupola 8a Pos 16-0005 cropxyz,3,mariana
+Cupola 8a Pos 19-0006 cropxyz,3,mariana
+Cupola 8a Pos 2-0006 cropxyz,1,critchfieldii
+Cupola 8a Pos 20-0007 cropxyz,1,critchfieldii
+Cupola 8a Pos 21-0008 cropxyz,3,mariana
+Cupola 8a Pos 22-0009 cropxyz,1,critchfieldii
+Cupola 8a Pos 23-0010 cropxyz,1,critchfieldii
+Cupola 8a Pos 24-0011 cropxyz,1,critchfieldii
+Cupola 8a Pos 25-0012 cropxyz,3,mariana
+Cupola 8a Pos 27-0013 cropxyz,3,mariana
+Cupola 8a Pos 29-0014 cropxyz,1,critchfieldii
+Cupola 8a Pos 3-0001 cropxyz,2,glauca
+Cupola 8a Pos 4-0002 cropxyz,3,mariana
+Cupola 8a Pos 5-0003 cropxyz,3,mariana
+Cupola 8a Pos 6-0004 cropxyz,3,mariana
+Cupola 8a Pos 8-0005 cropxyz,1,critchfieldii
