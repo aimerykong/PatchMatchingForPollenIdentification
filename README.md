@@ -12,9 +12,7 @@
 ![](https://github.com/aimerykong/PatchMatchingForPollenIdentification/blob/master/figures/patches_critchfieldii_K300L0.1_D0.1_E200_B2_globalContrastNorm.png)  |  ![](https://github.com/aimerykong/PatchMatchingForPollenIdentification/blob/master/figures/patches_glauca_K300L0.1_D0.1_E200_B2_globalContrastNorm.png)   |  ![](https://github.com/aimerykong/PatchMatchingForPollenIdentification/blob/master/figures/patches_mariana_K300L0.1_D0.1_E200_B2_globalContrastNorm.png)
 
 
-
-
-This folder contains demo codes for generating exemplar patch candidates in training dictionary, 
+This repository contains scripts for generating exemplar patch candidates in training dictionary, 
 how to do viewpoint aligment, and the whole classification pipeline for our project with the following published paper.
  
     @inproceedings{kong2016spatially,
@@ -33,6 +31,14 @@ To run the demos, please put the downloaded folder under proper directory (refer
 Note that the fossilized pollen grains are not released for now. Please stay tuned.
 
 Here stores the fossil pollen data that have not been released yet [google drive](https://drive.google.com/drive/folders/0B6uW-Khc9uCDTGk0MUFSekJscWM?usp=sharing)
+
+Here are some useful comments.
+
+1. Folder ``part1_trainval'' contains all the scripts for training, evaluating and visualizing the dictionary.
+2. Folder ``figures'' contains the figures used in the paper and others of interest.
+3. Folder ``part2_test'' contains the scripts for testing, running the model on a holdout testing set without annotation. This test set can be downloaded in google [google drive](https://drive.google.com/drive/folders/0B6uW-Khc9uCDTGk0MUFSekJscWM?usp=sharing) (permission required). The scripts are cleaner than those in ``part1_trainval''.
+4. The two demo directories contains useful scripts for visualization.
+
 
 
 For questions, please contact
