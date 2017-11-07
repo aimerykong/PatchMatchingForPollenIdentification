@@ -1,6 +1,9 @@
 # Matching Patches for Pollen Identification through Spatially-aware Dictionary Learning and Coding
 
-[project page](http://www.ics.uci.edu/~skong2/recurrentDepthSeg)
+For papers, slides and posters, please refer to our [project page](http://www.ics.uci.edu/~skong2/pollen.html "modernPollen-detCls"). Please visit also visit the [webpage page of Pollen Morphology-based Classification and Analysis](http://www.ics.uci.edu/~fowlkes/bioshape/index.html) for more relevant projects.
+
+
+
 
 ![](https://github.com/aimerykong/PatchMatchingForPollenIdentification/blob/master/figures/example_demo.png)
 
